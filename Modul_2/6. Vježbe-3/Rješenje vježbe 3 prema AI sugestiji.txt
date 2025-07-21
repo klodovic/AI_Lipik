@@ -1,0 +1,57 @@
+# 1. Osnovni pregled podataka
+print("Prvih 5 redova podataka:")
+print(data.head())
+print("\nInformacije o podacima:")
+print(data.info())
+print("\nOsnovna statistika:")
+print(data.describe())
+
+# 2. Provjera nedostajućih vrijednosti
+print("\nNedostajuće vrijednosti:")
+print(data.isnull().sum())
+
+# 3. Korelacijska matrica numeričkih varijabli
+plt.figure(figsize=(10, 6))
+numeric_cols = ['Life_Expectancy', 'Average_Temperature', 'Daily_Screen_Time', 'Health_Index', 'Income']
+sns.heatmap(data[numeric_cols].corr(), annot=True, cmap='coolwarm', vmin=-1, vmax=1)
+plt.title('Korelacijska matrica')
+plt.show()
+
+# 4. Prosječni životni vijek po zemljama
+plt.figure(figsize=(10, 6))
+sns.boxplot(x='Country', y='Life_Expectancy', data=data)
+plt.title('Životni vijek po zemljama')
+plt.show()
+# 5. Prosječni životni vijek po tipu prehrane
+plt.figure(figsize=(10, 6))
+sns.boxplot(x='Diet_Type', y='Life_Expectancy', data=data)
+plt.title('Životni vijek po tipu prehrane')
+plt.show()
+
+# 6. Raspodjela životnog vijeka
+plt.figure(figsize=(10, 6))
+sns.histplot(data['Life_Expectancy'], bins=20, kde=True)
+plt.title('Raspodjela životnog vijeka')
+plt.xlabel('Životni vijek')
+plt.ylabel('Frekvencija')
+plt.show()
+
+# 7. Odnos između prihoda i životnog vijeka
+plt.figure(figsize=(10, 6))
+sns.scatterplot(x='Income', y='Life_Expectancy', hue='Country', style='Diet_Type', data=data)
+plt.title('Odnos između prihoda i životnog vijeka')
+plt.xlabel('Prihod')
+plt.ylabel('Životni vijek')
+plt.show()
+# 8. Grupiranje po zemlji i tipu prehrane - prosječni životni vijek
+grouped = data.groupby(['Country', 'Diet_Type'])['Life_Expectancy'].mean().unstack()
+print("\nProsječni životni vijek po zemlji i tipu prehrane:")
+print(grouped)
+
+# 9. Vizualizacija prosječnog životnog vijeka po zemlji i tipu prehrane
+grouped.plot(kind='bar', figsize=(12, 6))
+plt.title('Prosječni životni vijek po zemlji i tipu prehrane')
+plt.ylabel('Životni vijek')
+plt.xlabel('Zemlja')
+plt.legend(title='Tip prehrane')
+plt.show()

@@ -1,0 +1,516 @@
+Drzava,Starost,_jfhjbgjdb_,Odjel,Spol,Iskustvo_Godine,Placa_USD
+SAD,22,Houston,Nabava,Z,1,5354.83
+SAD,75,New York,Proizvodnja,M,35,3388.79
+SAD,62,Houston,Nabava,Z,33,5892.16
+SAD,48,Boston,Nabava,M,9,5827.25
+SAD,22,Boston,Proizvodnja,Z,1,3673.74
+SAD,32,Los Angeles,Proizvodnja,Z,4,3350.4
+SAD,26,Houston,Proizvodnja,Z,2,3327.54
+SAD,66,Miami,Proizvodnja,Z,7,3236.0
+SAD,51,Boston,Proizvodnja,Z,27,4755.45
+SAD,26,Los Angeles,Proizvodnja,Z,2,4112.64
+SAD,22,New York,Prodaja,M,1,7845.79
+SAD,42,New York,Proizvodnja,Z,14,3744.64
+SAD,62,New York,Marketing,Z,21,8491.15
+SAD,71,Houston,Nabava,M,50,7901.27
+SAD,51,Los Angeles,Marketing,Z,2,5402.97
+SAD,67,Houston,Proizvodnja,,33,3981.95
+SAD,42,Boston,Proizvodnja,Z,19,3292.91
+SAD,62,Los Angeles,Prodaja,M,23,8258.82
+SAD,63,New York,Prodaja,Z,25,10000.0
+SAD,32,Houston,Nabava,M,3,5598.48
+SAD,41,Miami,Prodaja,Z,4,7554.57
+SAD,63,Boston,Proizvodnja,Z,1,3608.97
+SAD,60,New York,Nabava,Z,5,6886.55
+SAD,25,New York,Prodaja,M,1,5245.05
+SAD,60,New York,proizvodnja,M,11,4395.51
+SAD,67,New York,Nabava,,18,4489.62
+SAD,25,Boston,Proizvodnja,M,6,3710.12
+SAD,29,Boston,proizvodnja,M,3,5591.08
+SAD,24,Los Angeles,Marketing,M,2,5198.33
+SAD,30,New York,Proizvodnja,M,1,2753.3
+SAD,66,Houston,Proizvodnja,M,6,3413.88
+SAD,32,Los Angeles,Prodaja,Z,14,7875.97
+SAD,34,Miami,Nabava,M,,4953.39
+SAD,58,Boston,Prodaja,M,29,7883.77
+SAD,40,Houston,,Z,7,5510.17
+SAD,23,Houston,Nabava,Z,1,6953.54
+SAD,54,New York,Nabava,Z,12,5915.87
+SAD,60,Miami,Proizvodnja,M,2,2505.59
+SAD,20,Miami,Prodaja,M,0,8229.05
+SAD,70,Los Angeles,Nabava,M,9,6126.6
+SAD,41,Miami,,Z,15,7017.68
+SAD,33,New York,Prodaja,M,1,6365.57
+SAD,66,Los Angeles,Proizvodnja,Z,47,5599.76
+SAD,73,Boston,Proizvodnja,Z,9,3522.25
+SAD,48,Houston,Marketing,Z,12,6928.35
+SAD,66,Houston,nabava,Z,,6297.98
+SAD,71,New York,Proizvodnja,M,25,3708.76
+SAD,55,Houston,Proizvodnja,Z,11,3838.0
+SAD,51,Miami,Proizvodnja,Z,2,4586.43
+SAD,22,Houston,Prodaja,M,1,8394.95
+SAD,41,Houston,Prodaja,Z,6,6943.02
+SAD,71,Houston,Proizvodnja,Z,2,2941.98
+SAD,73,New York,Proizvodnja,M,20,3044.6
+SAD,43,New York,Proizvodnja,Z,13,3296.14
+SAD,54,Los Angeles,proizvodnja,Z,12,6006.41
+SAD,27,Los Angeles,Marketing,Z,3,5367.59
+SAD,63,Boston,Proizvodnja,M,45,4337.82
+SAD,62,Houston,Nabava,Z,2,6388.12
+SAD,22,Houston,,Z,4,3242.24
+SAD,42,Houston,Marketing,M,3,6150.22
+SAD,23,Los Angeles,Prodaja,M,2,7864.92
+SAD,42,New York,Nabava,M,12,6134.81
+SAD,47,New York,Prodaja,M,9,8331.01
+SAD,27,New York,Prodaja,Z,4,6023.74
+SAD,69,Los Angeles,Nabava,M,14,4745.04
+SAD,31,New York,Proizvodnja,Z,2,3523.09
+SAD,45,Miami,Proizvodnja,Z,12,4173.78
+SAD,70,New York,Proizvodnja,Z,17,3864.66
+SAD,60,Miami,proizvodnja,M,22,4027.45
+SAD,39,Los Angeles,Marketing,M,6,6257.28
+SAD,34,New York,Proizvodnja,M,,3145.09
+SAD,45,Houston,Nabava,Z,6,4111.22
+SAD,22,Los Angeles,prrrodaja,M,2,4298.02
+SAD,32,Miami,Proizvodnja,M,5,2622.79
+SAD,20,Miami,Prodaja,M,1,8375.96
+SAD,58,Boston,,Z,20,5839.84
+SAD,41,Los Angeles,Nabava,Z,3,6021.76
+SAD,24,Boston,Marketing,Z,2,5598.51
+SAD,29,Miami,Marketing,M,5,5188.55
+SAD,60,Boston,Nabava,Z,21,6318.35
+SAD,48,Los Angeles,Nabava,Z,18,6003.55
+SAD,35,New York,Proizvodnja,Z,14,4324.08
+SAD,38,Boston,Prodaja,M,7,9089.31
+SAD,37,Boston,Proizvodnja,Z,4,4125.55
+SAD,55,Miami,Prodaja,Z,12,8186.62
+SAD,71,Houston,Proizvodnja,Z,44,4444.3
+SAD,33,New York,Proizvodnja,Z,7,4409.53
+SAD,47,New York,Nabava,Z,5,6393.75
+SAD,74,Los Angeles,Proizvodnja,M,56,3451.67
+SAD,37,New York,Prodaja,Z,7,7962.89
+SAD,38,Houston,Prodaja,Z,19,9362.26
+SAD,66,New York,Proizvodnja,Z,18,4636.16
+SAD,54,Boston,Proizvodnja,M,12,3506.82
+SAD,26,Houston,Nabava,Z,3,6173.42
+SAD,69,Los Angeles,Proizvodnja,Z,6,3574.91
+SAD,57,Boston,Nabava,Z,7,6863.91
+SAD,24,Houston,,M,3,4030.65
+SAD,49,Los Angeles,Marketing,Z,13,4180.91
+SAD,39,Miami,Proizvodnja,M,2,3366.37
+SAD,27,Miami,marketing,Z,6,6861.9
+SAD,64,Miami,nabava,Z,8,6452.68
+SAD,59,Houston,Marketing,Z,9,6578.82
+SAD,29,Houston,Proizvodnja,Z,2,2836.68
+SAD,44,New York,Nabava,Z,4,6056.51
+SAD,31,Miami,Nabava,Z,2,6125.59
+SAD,68,Los Angeles,Prodaja,M,9,7916.57
+SAD,71,Miami,Marketing,M,14,7360.44
+SAD,75,Los Angeles,Prodaja,Z,16,10000.0
+SAD,39,Houston,Proizvodnja,Z,1,3308.63
+SAD,31,Boston,Nabava,M,5,4523.85
+SAD,30,Miami,Marketing,Z,4,5192.34
+SAD,46,Los Angeles,Nabava,Z,20,5318.68
+SAD,75,Boston,Prodaja,M,49,9979.05
+SAD,32,New York,Prodaja,Z,14,9029.5
+SAD,30,Boston,Prodaja,Z,7,8417.52
+SAD,38,Boston,Proizvodnja,Z,15,3959.68
+SAD,46,Los Angeles,Nabava,Z,7,5683.61
+SAD,66,Houston,Nabava,Z,2,4654.71
+SAD,29,Miami,,M,8,4938.59
+SAD,66,Los Angeles,Proizvodnja,Z,19,3891.74
+SAD,46,Houston,Proizvodnja,Z,9,3710.02
+SAD,22,Los Angeles,Prodaja,Z,1,7723.89
+SAD,58,Los Angeles,prrrodaja,Z,17,5760.03
+SAD,35,Los Angeles,Marketing,Z,13,5247.35
+SAD,27,Miami,Marketing,M,1,4944.9
+SAD,66,Miami,Nabava,Z,17,5612.07
+SAD,51,Los Angeles,Marketing,M,5,6626.37
+SAD,47,Miami,Nabava,Z,7,5181.38
+SAD,67,Los Angeles,Proizvodnja,Z,2,3136.61
+SAD,43,Los Angeles,Marketing,Z,18,6558.68
+SAD,34,New York,Marketing,M,11,5614.22
+SAD,25,Miami,Nabava,Z,5,7368.5
+SAD,30,Miami,Marketing,Z,6,6800.85
+SAD,34,Miami,Marketing,Z,4,5907.2
+SAD,46,New York,Proizvodnja,Z,3,4977.03
+SAD,30,Los Angeles,Marketing,Z,5,5455.37
+SAD,37,Miami,proizvodnja,Z,8,5180.19
+SAD,29,Miami,Marketing,Z,2,6951.62
+SAD,59,Boston,Prodaja,,14,7180.01
+SAD,33,Los Angeles,Prodaja,M,2,8237.99
+SAD,58,Boston,Nabava,M,24,5934.99
+SAD,59,Boston,Nabava,Z,32,6194.29
+SAD,28,Miami,,Z,5,5693.58
+SAD,68,Boston,Proizvodnja,Z,4,2999.52
+SAD,74,Houston,Proizvodnja,Z,24,4626.11
+SAD,50,Miami,Proizvodnja,M,14,3545.12
+SAD,63,Los Angeles,Proizvodnja,Z,7,3296.02
+SAD,53,Houston,Proizvodnja,M,7,2582.46
+SAD,60,Houston,Proizvodnja,M,8,3272.16
+SAD,50,Los Angeles,Proizvodnja,M,6,3256.32
+SAD,29,Los Angeles,prodaja,Z,7,5251.03
+SAD,69,Houston,Proizvodnja,Z,7,3798.61
+SAD,40,Los Angeles,Proizvodnja,M,4,3363.12
+SAD,58,Miami,Proizvodnja,Z,4,4089.4
+SAD,30,Houston,Nabava,Z,2,7207.16
+SAD,42,Los Angeles,Proizvodnja,Z,24,4642.32
+SAD,25,Los Angeles,Marketing,Z,1,6296.58
+SAD,43,New York,Proizvodnja,Z,3,2492.78
+SAD,21,New York,Proizvodnja,Z,2,3412.38
+SAD,20,Boston,Prodaja,Z,0,8975.21
+SAD,46,Boston,Proizvodnja,Z,16,3869.5
+SAD,26,Miami,Proizvodnja,Z,1,3940.22
+SAD,40,Boston,Proizvodnja,Z,8,4237.22
+SAD,34,Houston,Prodaja,Z,13,8230.16
+SAD,45,Houston,Prodaja,Z,11,8717.27
+SAD,66,Houston,Proizvodnja,Z,10,3049.41
+SAD,29,Los Angeles,Proizvodnja,M,9,3392.04
+SAD,46,New York,Marketing,Z,18,7783.99
+SAD,60,Miami,,,7,7048.94
+SAD,59,Miami,Marketing,M,9,5509.15
+SAD,42,Miami,prrrodaja,M,11,5615.45
+SAD,53,Boston,Proizvodnja,Z,34,5147.54
+SAD,44,Miami,Prodaja,M,17,9697.99
+SAD,71,Houston,Prodaja,Z,14,8897.57
+SAD,42,Miami,Marketing,M,-6,4999.23
+SAD,74,New York,Nabava,Z,27,7783.71
+SAD,31,Miami,Nabava,Z,5,6286.92
+SAD,65,New York,Marketing,Z,20,6425.03
+SAD,75,New York,Nabava,Z,16,7856.81
+SAD,68,Los Angeles,Proizvodnja,M,36,3999.84
+SAD,26,Los Angeles,Prodaja,M,2,8051.99
+SAD,31,Houston,Prodaja,Z,8,7644.07
+SAD,29,Miami,Nabava,Z,5,5616.09
+SAD,46,Miami,Marketing,M,9,6004.29
+SAD,47,Miami,Marketing,Z,0,5804.96
+SAD,47,Houston,Marketing,M,27,6518.84
+SAD,64,Boston,Proizvodnja,M,8,3241.72
+SAD,60,Miami,Nabava,M,7,5497.62
+SAD,37,New York,Marketing,Z,11,6476.07
+SAD,43,Boston,Proizvodnja,Z,-8,3012.43
+SAD,51,Houston,Proizvodnja,M,11,2298.04
+SAD,34,Houston,Proizvodnja,,4,2842.46
+SAD,51,Boston,Nabava,Z,10,6709.68
+SAD,42,New York,Proizvodnja,Z,19,4285.49
+SAD,56,New York,Marketing,M,5,5774.02
+SAD,31,New York,Marketing,Z,5,7509.4
+SAD,52,Miami,Proizvodnja,Z,10,3673.02
+SAD,31,Houston,Proizvodnja,M,12,3638.78
+SAD,40,Houston,proizvodnja,Z,3,5575.28
+SAD,75,New York,Proizvodnja,Z,19,4200.35
+SAD,32,New York,Nabava,Z,2,7658.74
+SAD,41,Houston,Proizvodnja,Z,,3820.49
+SAD,53,Miami,Nabava,Z,16,5213.21
+SAD,71,Los Angeles,Prodaja,Z,9,9531.46
+SAD,47,Los Angeles,Marketing,Z,3,6710.39
+SAD,37,New York,Marketing,Z,15,6233.27
+SAD,33,Miami,Marketing,M,5,5141.99
+SAD,63,Los Angeles,Marketing,Z,45,8825.69
+SAD,32,Houston,Nabava,M,3,5598.48
+SAD,29,New York,Proizvodnja,Z,2,3200.73
+SAD,52,Los Angeles,Marketing,M,9,5487.19
+SAD,68,New York,Proizvodnja,M,9,3363.85
+SAD,53,Boston,Proizvodnja,Z,34,5147.54
+SAD,37,Los Angeles,Prodaja,M,19,10000.0
+SAD,28,Los Angeles,Marketing,M,8,5782.16
+SAD,42,New York,Nabava,Z,5,6541.05
+SAD,55,New York,nabava,M,10,5659.08
+SAD,35,Los Angeles,Nabava,M,5,6446.84
+SAD,110,Houston,proizvodnja,Z,46,10000.0
+SAD,58,Miami,Proizvodnja,Z,19,3587.16
+SAD,41,Boston,Proizvodnja,M,3,2000.0
+SAD,62,Houston,Proizvodnja,Z,23,5096.67
+SAD,56,New York,Marketing,Z,9,7171.34
+SAD,40,New York,Marketing,Z,6,5994.5
+SAD,69,New York,Prodaja,Z,39,8136.91
+SAD,59,New York,Proizvodnja,M,15,3123.58
+SAD,49,New York,Proizvodnja,Z,4,3810.89
+SAD,21,Houston,Proizvodnja,Z,3,4466.14
+SAD,41,Boston,Proizvodnja,M,3,2000.0
+SAD,74,Boston,nabava,M,22,5623.37
+SAD,57,Miami,Proizvodnja,M,9,3583.53
+SAD,46,New York,Proizvodnja,Z,18,4068.82
+SAD,51,Miami,Proizvodnja,Z,14,4735.88
+SAD,23,Boston,,Z,2,4703.8
+SAD,63,Houston,Prodaja,M,3,7925.17
+SAD,67,Houston,Marketing,M,9,4400.75
+SAD,30,Houston,Marketing,Z,5,4997.13
+SAD,65,Los Angeles,Proizvodnja,Z,17,3339.53
+SAD,40,Los Angeles,Nabava,Z,7,7283.38
+SAD,40,New York,Marketing,M,7,6105.13
+SAD,20,New York,Prodaja,Z,0,9010.12
+SAD,49,New York,Proizvodnja,M,24,3376.54
+SAD,52,Los Angeles,Prodaja,M,7,7434.74
+SAD,65,Los Angeles,Marketing,M,12,6694.43
+SAD,64,Los Angeles,Proizvodnja,Z,4,3609.28
+SAD,29,New York,Proizvodnja,M,2,2430.74
+SAD,55,New York,Marketing,M,18,5536.61
+SAD,72,Los Angeles,Proizvodnja,M,1,3002.44
+SAD,75,Houston,Proizvodnja,Z,13,4195.4
+SAD,42,Boston,Proizvodnja,M,6,2998.31
+SAD,32,Houston,Prodaja,Z,4,9342.48
+SAD,44,Boston,prodaja,Z,8,4800.63
+SAD,55,Houston,Marketing,Z,4,6363.2
+SAD,33,Miami,Prodaja,M,1,8217.15
+SAD,56,Los Angeles,Proizvodnja,M,13,3451.55
+SAD,60,Miami,Prodaja,Z,4,9674.61
+SAD,28,New York,proizvodnja,Z,3,4321.21
+SAD,26,New York,prrrodaja,M,2,7009.61
+SAD,51,New York,Proizvodnja,M,9,2316.31
+SAD,72,New York,Proizvodnja,M,16,2974.04
+SAD,73,Boston,Proizvodnja,M,10,3396.48
+SAD,22,Miami,Marketing,Z,0,6914.66
+SAD,61,Los Angeles,Marketing,M,22,6577.91
+SAD,36,Houston,Proizvodnja,Z,9,3597.12
+SAD,32,New York,Prodaja,Z,10,8109.16
+SAD,20,New York,Marketing,Z,1,7072.35
+SAD,38,Miami,Nabava,Z,12,5721.36
+SAD,32,New York,Proizvodnja,Z,6,4183.38
+SAD,40,New York,proizvodnja,Z,22,8196.15
+SAD,39,New York,Nabava,M,,6122.9
+SAD,49,Houston,Nabava,M,11,5350.77
+SAD,55,New York,Prodaja,M,7,5986.66
+SAD,51,Miami,Marketing,Z,16,6784.78
+SAD,56,Houston,Marketing,Z,9,7675.01
+SAD,26,Miami,Proizvodnja,Z,1,3940.22
+SAD,50,Los Angeles,Proizvodnja,M,32,4113.26
+SAD,66,Boston,Marketing,Z,,5856.65
+SAD,67,Los Angeles,Proizvodnja,Z,1,2748.59
+SAD,42,Miami,Proizvodnja,M,8,2753.67
+SAD,54,New York,proizvodnja,Z,4,5404.13
+SAD,49,Los Angeles,Marketing,M,,5194.29
+SAD,37,New York,Prodaja,Z,7,8121.9
+SAD,29,Miami,Proizvodnja,Z,2,3742.08
+SAD,41,Houston,Marketing,M,7,5496.21
+SAD,26,Houston,Nabava,Z,2,6754.61
+SAD,65,New York,Nabava,M,7,5792.2
+SAD,73,New York,Marketing,Z,39,7800.23
+SAD,63,New York,Proizvodnja,Z,10,4478.59
+SAD,69,Los Angeles,marketing,Z,8,5976.36
+SAD,54,Los Angeles,Nabava,,-6,5391.29
+SAD,42,Houston,Proizvodnja,M,8,2360.57
+SAD,110,Los Angeles,Nabava,Z,17,7822.19
+SAD,39,Boston,Marketing,M,,5926.27
+SAD,35,Houston,Proizvodnja,M,6,3129.69
+SAD,37,New York,Marketing,Z,7,6810.82
+SAD,50,Boston,Marketing,Z,6,5176.96
+SAD,56,Miami,Proizvodnja,Z,11,4049.75
+SAD,47,Miami,Proizvodnja,M,17,2882.21
+SAD,64,New York,Marketing,Z,4,6788.84
+SAD,53,Houston,Proizvodnja,Z,8,4055.16
+SAD,33,Miami,Marketing,M,2,6187.57
+SAD,29,Boston,Marketing,M,1,5931.8
+SAD,40,Boston,Nabava,Z,8,5203.19
+SAD,33,New York,Proizvodnja,Z,8,3363.54
+SAD,59,Boston,Proizvodnja,Z,18,4372.34
+SAD,42,Boston,Proizvodnja,M,4,2757.23
+SAD,54,New York,proizvodnja,Z,4,5404.13
+SAD,74,Boston,Proizvodnja,Z,16,4016.38
+SAD,44,Los Angeles,Nabava,M,11,5729.44
+SAD,34,Houston,Prodaja,Z,4,9250.12
+SAD,75,New York,prrrodaja,Z,29,6616.84
+SAD,72,Los Angeles,marketing,Z,16,5559.54
+SAD,40,New York,Proizvodnja,M,12,3047.94
+SAD,72,Los Angeles,Proizvodnja,M,29,4160.96
+SAD,64,Boston,Proizvodnja,M,8,3241.72
+SAD,49,Boston,Nabava,Z,7,5385.35
+SAD,48,Boston,Proizvodnja,M,4,3543.53
+SAD,34,Los Angeles,Proizvodnja,Z,8,4945.86
+SAD,30,Los Angeles,Marketing,Z,1,7191.47
+SAD,74,New York,Proizvodnja,M,19,3519.43
+SAD,20,Houston,Prodaja,Z,1,8000.88
+SAD,44,Boston,prrrodaja,M,9,6623.01
+SAD,31,Boston,Proizvodnja,Z,7,3835.73
+SAD,53,New York,Nabava,Z,13,5295.07
+SAD,73,Boston,Prodaja,M,16,9842.98
+SAD,30,New York,Nabava,M,11,5927.94
+SAD,40,New York,Prodaja,Z,3,8135.79
+SAD,43,Miami,Proizvodnja,M,5,2987.43
+SAD,62,Miami,Proizvodnja,Z,11,3713.41
+SAD,25,New York,Proizvodnja,M,1,3140.14
+SAD,34,Miami,Proizvodnja,M,4,3388.65
+SAD,58,Miami,Prodaja,Z,25,9625.82
+SAD,33,New York,Nabava,M,3,6504.44
+SAD,49,Los Angeles,Prodaja,M,14,8928.52
+SAD,73,New York,Marketing,Z,20,6499.03
+SAD,55,Houston,Marketing,Z,4,6363.2
+SAD,54,Los Angeles,Prodaja,Z,8,8950.87
+SAD,44,Boston,Prodaja,M,26,7886.49
+SAD,69,Miami,Nabava,M,25,6360.49
+SAD,40,Miami,Nabava,M,4,4505.04
+SAD,24,Los Angeles,Nabava,Z,1,6226.59
+SAD,56,New York,Proizvodnja,M,11,3959.37
+SAD,41,Boston,Nabava,M,3,6339.2
+SAD,66,New York,Nabava,M,12,6731.56
+SAD,73,New York,Marketing,Z,20,6499.03
+SAD,43,New York,Marketing,Z,23,6775.85
+SAD,24,Miami,Proizvodnja,Z,1,3411.05
+SAD,46,Houston,Prodaja,Z,9,9883.58
+SAD,48,New York,Nabava,Z,5,4665.96
+SAD,40,New York,Marketing,M,3,4885.82
+SAD,58,Houston,Marketing,M,11,5411.99
+SAD,65,Los Angeles,Marketing,M,46,6584.1
+SAD,70,New York,Prodaja,M,10,9515.17
+SAD,71,Miami,Prodaja,Z,11,9301.94
+SAD,52,Los Angeles,Nabava,M,18,5815.28
+SAD,48,Boston,Proizvodnja,Z,9,4220.46
+SAD,41,New York,Prodaja,M,5,7804.59
+SAD,49,Boston,Proizvodnja,Z,19,4587.84
+SAD,41,New York,Prodaja,Z,16,8828.71
+SAD,47,Houston,Marketing,M,9,5867.79
+SAD,57,Miami,Proizvodnja,M,39,4156.08
+SAD,21,Houston,Prodaja,Z,2,8603.66
+SAD,29,New York,Proizvodnja,Z,3,3283.48
+SAD,20,New York,Marketing,M,0,5351.39
+SAD,36,Miami,Nabava,M,16,5258.52
+SAD,54,Boston,Proizvodnja,M,22,4225.08
+SAD,59,Los Angeles,Prodaja,M,12,8962.1
+SAD,57,New York,proizvodnja,Z,4,6284.04
+SAD,49,Miami,Marketing,Z,31,6773.34
+SAD,40,Boston,Proizvodnja,Z,6,3222.85
+SAD,58,Boston,Proizvodnja,Z,16,4883.04
+SAD,41,New York,Prodaja,Z,6,9084.31
+SAD,38,Miami,Marketing,Z,5,5989.16
+SAD,61,New York,proizvodnja,Z,12,5947.74
+SAD,74,Boston,Proizvodnja,Z,9,3889.54
+SAD,64,Boston,Proizvodnja,Z,35,4960.47
+SAD,48,Miami,Marketing,M,26,5955.47
+SAD,47,Boston,Proizvodnja,Z,12,4480.29
+SAD,47,New York,Prodaja,Z,1,8758.88
+SAD,26,Houston,Proizvodnja,Z,1,4076.02
+SAD,37,New York,Nabava,Z,4,6798.72
+SAD,51,Miami,Marketing,M,2,5521.72
+SAD,21,Boston,prrrodaja,Z,0,6303.75
+SAD,30,New York,Nabava,M,3,5083.23
+SAD,64,Miami,nabava,Z,8,6452.68
+SAD,39,Los Angeles,Proizvodnja,M,2,3762.74
+SAD,26,Miami,Prodaja,Z,3,8527.39
+SAD,30,Houston,Proizvodnja,M,7,3436.44
+SAD,113,Miami,Nabava,M,38,6737.08
+SAD,56,Los Angeles,Prodaja,M,8,9281.46
+SAD,48,New York,Marketing,Z,2,5719.98
+SAD,28,Los Angeles,Proizvodnja,Z,9,4373.69
+SAD,64,New York,Proizvodnja,M,20,3455.78
+SAD,25,Los Angeles,Prodaja,Z,5,8827.32
+SAD,53,New York,,Z,10,4786.08
+SAD,49,Houston,Nabava,Z,12,6160.82
+SAD,65,Miami,Proizvodnja,Z,22,4519.0
+SAD,55,Boston,Prodaja,Z,18,9352.25
+SAD,44,New York,prrrodaja,M,2,5045.53
+SAD,28,New York,Prodaja,,4,7735.79
+SAD,20,Houston,Proizvodnja,M,2,3663.97
+SAD,32,Los Angeles,Proizvodnja,Z,7,3608.03
+SAD,47,New York,Nabava,Z,4,6040.07
+SAD,51,Miami,Proizvodnja,Z,14,4735.88
+SAD,25,New York,Proizvodnja,Z,3,2416.31
+SAD,60,Los Angeles,Nabava,Z,42,8740.63
+SAD,75,Houston,Marketing,Z,13,6189.36
+SAD,37,Houston,Proizvodnja,M,19,3901.89
+SAD,68,Los Angeles,Proizvodnja,M,26,3588.42
+SAD,53,Boston,Proizvodnja,Z,29,4846.9
+SAD,45,New York,Prodaja,Z,2,8848.06
+SAD,39,Houston,Proizvodnja,M,8,3616.0
+SAD,63,New York,Proizvodnja,Z,4,3740.87
+SAD,62,Boston,Proizvodnja,M,14,3519.82
+SAD,45,Los Angeles,Nabava,Z,3,5518.29
+SAD,33,New York,proizvodnja,M,14,3363.11
+SAD,22,Los Angeles,Prodaja,M,2,8681.07
+SAD,37,Houston,Marketing,Z,3,6347.2
+SAD,56,New York,proizvodnja,M,16,5321.0
+SAD,28,Los Angeles,Proizvodnja,Z,2,2913.49
+SAD,55,Los Angeles,Marketing,M,19,5862.15
+SAD,40,Boston,Prodaja,M,4,6390.95
+SAD,40,Houston,,Z,7,5510.17
+SAD,28,New York,Prodaja,Z,1,6743.59
+SAD,35,New York,proizvodnja,M,2,6336.91
+SAD,27,New York,Proizvodnja,Z,7,4012.49
+SAD,74,Houston,Marketing,Z,15,5978.79
+SAD,75,New York,Prodaja,M,30,10000.0
+SAD,27,Boston,Proizvodnja,Z,1,4168.71
+SAD,48,Los Angeles,Proizvodnja,M,13,3281.01
+SAD,73,Houston,Proizvodnja,Z,13,5234.54
+SAD,59,New York,Marketing,Z,19,7515.98
+SAD,22,Miami,Prodaja,Z,2,8036.8
+SAD,38,New York,Proizvodnja,Z,7,4185.09
+SAD,73,Los Angeles,Proizvodnja,M,10,3194.57
+SAD,63,Miami,Proizvodnja,Z,14,4468.19
+SAD,47,New York,Nabava,Z,5,7506.57
+SAD,66,Houston,Marketing,Z,-2,6736.41
+SAD,39,Boston,Nabava,Z,9,8405.46
+SAD,42,New York,Proizvodnja,M,16,3753.02
+SAD,36,Houston,Nabava,M,0,5115.68
+SAD,22,Miami,Proizvodnja,Z,1,3574.33
+SAD,27,Houston,Nabava,M,4,5246.92
+SAD,44,Boston,Marketing,M,7,6462.35
+SAD,36,Houston,Proizvodnja,Z,11,4721.01
+SAD,69,Houston,Proizvodnja,Z,22,4273.87
+SAD,37,Houston,Proizvodnja,Z,7,3557.84
+SAD,22,Houston,Proizvodnja,Z,1,4413.12
+SAD,25,Los Angeles,marketing,Z,1,5328.32
+SAD,56,New York,Nabava,M,15,6589.64
+SAD,22,Miami,Marketing,M,1,5745.39
+SAD,27,Los Angeles,Proizvodnja,Z,3,3677.14
+SAD,55,Los Angeles,Marketing,M,25,7371.58
+SAD,47,New York,Proizvodnja,M,6,3807.94
+SAD,47,Boston,Nabava,M,16,5259.2
+SAD,20,Los Angeles,Proizvodnja,M,1,2529.3
+SAD,55,New York,Nabava,M,13,5589.1
+SAD,37,Miami,Marketing,Z,10,6481.33
+SAD,22,Boston,Marketing,Z,4,6321.03
+SAD,60,Los Angeles,prodaja,M,10,4468.29
+SAD,70,Boston,Nabava,Z,17,7011.39
+SAD,54,New York,Nabava,Z,12,5915.87
+SAD,43,Los Angeles,Prodaja,M,11,8722.51
+SAD,38,New York,Prodaja,Z,1,6989.39
+SAD,55,Los Angeles,Proizvodnja,Z,13,4256.32
+SAD,72,Los Angeles,prrrodaja,Z,21,6987.76
+SAD,47,Houston,Marketing,M,9,5867.79
+SAD,27,Boston,Proizvodnja,Z,6,3629.11
+SAD,29,Boston,Proizvodnja,M,8,2452.76
+SAD,74,New York,Prodaja,Z,8,10000.0
+SAD,58,Los Angeles,Prodaja,,7,8746.17
+SAD,71,Houston,Proizvodnja,Z,16,4272.02
+SAD,26,Miami,Nabava,Z,2,6351.42
+SAD,35,Houston,Marketing,Z,4,5108.71
+SAD,44,Houston,proizvodnja,Z,9,5503.34
+SAD,62,Boston,Nabava,Z,17,7859.17
+SAD,20,Boston,Nabava,M,1,6999.15
+SAD,38,Miami,Marketing,Z,6,6278.39
+SAD,45,Boston,Nabava,M,15,6386.74
+SAD,67,New York,Prodaja,,4,6539.16
+SAD,48,Miami,Marketing,Z,8,5171.98
+SAD,70,Los Angeles,Marketing,M,6,5608.1
+SAD,43,Los Angeles,Prodaja,M,14,7752.57
+SAD,36,Boston,Nabava,Z,10,6357.11
+SAD,35,Houston,Marketing,M,8,5520.93
+SAD,29,New York,Proizvodnja,Z,8,4127.17
+SAD,112,Los Angeles,Nabava,Z,68,8524.24
+SAD,105,Boston,Nabava,M,24,5490.98
+SAD,60,Miami,Nabava,Z,11,6505.01
+SAD,65,Boston,nabava,M,47,6607.01
+SAD,47,Houston,Marketing,Z,6,5694.57
+SAD,69,Houston,Prodaja,Z,18,10000.0
+SAD,21,Miami,Nabava,Z,1,6108.15
+SAD,73,Boston,Marketing,M,9,4786.33
+SAD,40,Houston,Proizvodnja,Z,10,4025.84
+SAD,30,New York,Marketing,Z,1,6687.6
+SAD,33,Houston,Prodaja,Z,2,8925.8
+SAD,34,New York,Proizvodnja,Z,1,2889.35
+SAD,47,New York,Prodaja,Z,1,8758.88
+SAD,73,Houston,Proizvodnja,Z,34,3972.8
+SAD,59,Miami,Nabava,M,24,6806.18
+SAD,69,Houston,Proizvodnja,Z,7,5191.65
+SAD,45,Miami,proizvodnja,Z,10,5862.74
+SAD,62,Houston,Nabava,Z,2,6388.12
+SAD,21,New York,prrrodaja,Z,0,5978.04
+SAD,72,Miami,Nabava,Z,24,5703.33
+SAD,35,Los Angeles,Proizvodnja,Z,-9,3628.97
+SAD,50,Miami,Proizvodnja,Z,8,4003.14
+SAD,62,Miami,Nabava,Z,1,5213.94
+SAD,29,Los Angeles,Proizvodnja,M,5,3244.59
+SAD,51,Miami,Proizvodnja,,23,5033.18
+SAD,67,Houston,Prodaja,M,3,8078.86
+SAD,24,Houston,Nabava,M,2,4879.26
+SAD,74,Houston,Nabava,Z,16,6445.39
+SAD,69,New York,Nabava,Z,44,7502.53

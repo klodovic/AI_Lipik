@@ -1,0 +1,17 @@
+Upoznati sa datasetom i odrediti feature selection
+Zdravstveni osiguranici, tko placa za svoje usluge (medicinsko osoblje). Otkriti koje su varijable vazne za obracun tih troskova (describe, info, vrste i raspon podataka).
+Koja je od tih varijabli bitna
+Domain knowledge
+BMI: male vs female, koji je optimalni BMI
+Usporediti koje su varijable bitne da bi se odredili troskovi
+Naredba korelacije
+Grafovi (plotting)
+Value counts
+Pisati zakljucak na kraju svakoga zadatka/postupka i sto smo zakljucili
+
+
+
+napraviti osnovnu EDA analizu i provjeriti korelacije,želimo vidjeti utječu li nezavisne varijable na našu zavisnu, vrijeme dostave
+koliku udaljenost treba proći dostavljač
+koliko ima dostava u jednoj turi, možda ima više pa mu treba više vremena
+cijena benzina se mijenja redovito, postoje vozači koji voze "štedljivije"
