@@ -1,7 +1,20 @@
-# AI_Lipik
-Stručnjak/inja za umjetnu inteligenciju
+<h1>AI_Lipik</h1>
+<p><em>Stručnjak/inja za umjetnu inteligenciju</em></p>
 
-<h2>Modul 2 - projektni zadatak</h2>
+<h2>Sadržaj</h2>
+<ul>
+  <li><a href="#modul-2---projektni-zadatak">Modul 2 - projektni zadatak</a></li>
+  <li><a href="#modul-3---strojno-ucenje">Modul 3 - Strojno učenje</a>
+    <ul>
+      <li><a href="#01-uvodno-predavanje">01. Uvodno predavanje</a></li>
+      <li><a href="#02-ponavljanje-matematike">02. Ponavljanje matematike</a></li>
+      <li><a href="#03-klasifikacija-k-nn-nb">03. Klasifikacija (k-NN, NB)</a></li>
+      <li><a href="#04-regresija-k-nn-linearna">04. Regresija (k-NN, linearna)</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="modul-2---projektni-zadatak">Modul 2 - projektni zadatak</h2>
 <ul>
   <li><strong>Učitati dataset i osnovna analiza</strong> <em>(2 boda)</em>
     <ul>
@@ -46,4 +59,41 @@ Stručnjak/inja za umjetnu inteligenciju
     </ul>
   </li>
 </ul>
+
+<h2 id="modul-3---strojno-ucenje">Modul 3 - Strojno učenje</h2>
+
+<h3 id="01-uvodno-predavanje">01. Uvodno predavanje</h3>
+<ul>
+  <li>Supervised vs Unsupervised Learning<br>
+    <a href="https://www.youtube.com/watch?v=SYPejHY9WV8">https://www.youtube.com/watch?v=SYPejHY9WV8</a>
+  </li>
+</ul>
+
+<h3 id="02-ponavljanje-matematike">02. Ponavljanje matematike</h3>
+<ul>
+  <li>What Is Scikit-Learn ?<br>
+    <a href="https://www.youtube.com/watch?v=7z8-QWlbmoo">https://www.youtube.com/watch?v=7z8-QWlbmoo</a>
+  </li>
+</ul>
+
+<h3 id="03-klasifikacija-k-nn-nb">03. Klasifikacija (k-NN, NB)</h3>
+<ul>
+  <li>KNN Algorithm in Machine Learning<br>
+    <a href="https://www.youtube.com/watch?v=TN_iv1ToxmI">https://www.youtube.com/watch?v=TN_iv1ToxmI</a>
+  </li>
+  <li>Naive Bayes Algorithm in Machine Learning<br>
+    <a href="https://www.youtube.com/watch?v=EK9uEfR53n4">https://www.youtube.com/watch?v=EK9uEfR53n4</a>
+  </li>
+</ul>
+
+<h3 id="04-regresija-k-nn-linearna">04. Regresija (k-NN, linearna)</h3>
+<ul>
+  <li>KNN machine learning model for regression<br>
+    <a href="https://www.youtube.com/watch?v=ywbVXMuhDhk">https://www.youtube.com/watch?v=ywbVXMuhDhk</a>
+  </li>
+  <li>Linear Regression Algorithm<br>
+    <a href="https://www.youtube.com/watch?v=1aktNYADxdc">https://www.youtube.com/watch?v=1aktNYADxdc</a>
+  </li>
+</ul>
+
 
