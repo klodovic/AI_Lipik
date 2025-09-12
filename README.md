@@ -10,6 +10,7 @@
       <li><a href="#02-ponavljanje-matematike">02. Ponavljanje matematike</a></li>
       <li><a href="#03-klasifikacija-k-nn-nb">03. Klasifikacija (k-NN, NB)</a></li>
       <li><a href="#04-regresija-k-nn-linearna">04. Regresija (k-NN, linearna)</a></li>
+      <li><a href="#05-evaluacija">05. Evaluacija</a></li>
     </ul>
   </li>
 </ul>
@@ -92,6 +93,16 @@
     <a href="https://www.youtube.com/watch?v=ywbVXMuhDhk">https://www.youtube.com/watch?v=ywbVXMuhDhk</a>
   </li>
   <li>Linear Regression Algorithm<br>
+    <a href="https://www.youtube.com/watch?v=1aktNYADxdc">https://www.youtube.com/watch?v=1aktNYADxdc</a>
+  </li>
+</ul>
+
+<h3 id="#05-evaluacija">05. Evaluacija</h3>
+<ul>
+  <li>Bias variance trade off and overfitting<br>
+    <a href="https://www.youtube.com/watch?v=ywbVXMuhDhk">https://www.youtube.com/watch?v=EEHhGRq-r1c</a>
+  </li>
+  <li>Cross validation<br>
     <a href="https://www.youtube.com/watch?v=1aktNYADxdc">https://www.youtube.com/watch?v=1aktNYADxdc</a>
   </li>
 </ul>
