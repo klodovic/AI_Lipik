@@ -82,14 +82,17 @@
   [Video](https://www.youtube.com/watch?v=1aktNYADxdc)
 
 ### 06. Pogreška klasifikatora
-- Gist: [Matrica konfuzije za otkrivene pragove](https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5)
+- Gist
+  [Matrica konfuzije za otkrivene pragove](https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5)
 - **Dodatni materijali**  
   ROC and AUC, Clearly Explained!  
   [Video](https://www.youtube.com/watch?v=4jRBRDbJemM)
 
 ### 07. Procjena regresora
-- Gist: [Crtanje grešaka](https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b)
-- Gist: [Regression residuals](https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33)
+- Gist
+  [Crtanje grešaka](https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b)
+- Gist
+  [Regression residuals](https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33)
 
 ### 08. Nove metode klasifikacije
 *(materijali nedostaju)*
