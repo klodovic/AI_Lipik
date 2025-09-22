@@ -36,7 +36,7 @@
     }
   </style>
 
-  <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Niki.ai-logo.svg" alt="AI logo">
+  <img class="logo" src="[https://upload.wikimedia.org/wikipedia/commons/f/f0/Niki.ai-logo.svg](https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png)" alt="AI logo">
   <h1>AI_Lipik</h1>
   <p><em>Stručnjak/inja za umjetnu inteligenciju</em></p>
 
@@ -141,23 +141,21 @@
 
   <h3 id="06-pogreska-klasifikatora">06. Pogreška klasifikatora</h3>
   <ul>
-    <li>Gist: <a href="https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5" target="_blank" rel="noopener">https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5</a></li>
-  </ul>
-
-  <h4>DODATNI MATERIJALI</h4>
-  <ul>
-    <li>ROC and AUC, Clearly Explained!<br>
-      <a href="https://www.youtube.com/watch?v=4jRBRDbJemM">https://www.youtube.com/watch?v=4jRBRDbJemM</a>
+    <li>Gist: <a href="https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5" target="_blank" rel="noopener">Matrica konfuzije za otkrivene pragove</a></li>
+    <li>
+        <h4>DODATNI MATERIJALI</h4>
+          <ul>
+            <li>ROC and AUC, Clearly Explained!<br>
+              <a href="https://www.youtube.com/watch?v=4jRBRDbJemM">https://www.youtube.com/watch?v=4jRBRDbJemM</a>
+            </li>
+          </ul>
     </li>
   </ul>
 
   <h3 id="07-procjena-regresora">07. Procjena regresora</h3>
   <ul>
-    <li>Gist 1: <a href="https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b" target="_blank" rel="noopener">https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b</a></li>
-    <li>Gist 2: <a href="https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33" target="_blank" rel="noopener">https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33</a></li>
+    <li>Gist: <a href="https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b" target="_blank" rel="noopener">Crtanje grešaka</a></li>
+    <li>Gist: <a href="https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33" target="_blank" rel="noopener">Regression residuals</a></li>
   </ul>
 
-  <footer>
-    <div>Generirano za <code>README.html</code> — slobodno priložite u GitHub repozitorij.</div>
-  </footer>
 </div>
