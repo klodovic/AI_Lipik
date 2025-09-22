@@ -1,5 +1,9 @@
 # ![Materials](https://img.shields.io/badge/Materials-Available-brightgreen) ![Content](https://img.shields.io/badge/Content-Videos%2FText%2FExamples-blue) ![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
 
+  <a title="United Blasters, CC BY 4.0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png">
+    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AI_logo_by_United_Blasters.png/256px-AI_logo_by_United_Blasters.png?20250222172020" alt="AI logo by United Blasters">
+  </a>
+
 # AI_Lipik
 *Stručnjak/inja za umjetnu inteligenciju*
 
