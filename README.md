@@ -1,8 +1,8 @@
 # ![Materials](https://img.shields.io/badge/Materials-Available-brightgreen) ![Content](https://img.shields.io/badge/Content-Videos%2FText%2FExamples-blue) ![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
 
-  <a title="United Blasters, CC BY 4.0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png">
-    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AI_logo_by_United_Blasters.png/256px-AI_logo_by_United_Blasters.png?20250222172020" alt="AI logo by United Blasters">
-  </a>
+<a title="United Blasters, CC BY 4.0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png">
+  <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AI_logo_by_United_Blasters.png/256px-AI_logo_by_United_Blasters.png" alt="AI logo by United Blasters">
+</a>
 
 # AI_Lipik
 *Stručnjak/inja za umjetnu inteligenciju*
@@ -83,9 +83,10 @@
 
 ### 06. Pogreška klasifikatora
 - Gist: [Matrica konfuzije za otkrivene pragove](https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5)
-- **Dodatni materijali**  
-  ROC and AUC, Clearly Explained!  
-  [Video](https://www.youtube.com/watch?v=4jRBRDbJemM)
+
+**Dodatni materijali**  
+ROC and AUC, Clearly Explained!  
+[Video](https://www.youtube.com/watch?v=4jRBRDbJemM)
 
 ### 07. Procjena regresora
 - Gist: [Crtanje grešaka](https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b)
@@ -132,5 +133,3 @@
 
 ---
 
-> README.md je organiziran tako da su svi materijali na jednom mjestu, a poglavlja bez sadržaja označena su kao „materijali nedostaju“.  
-> Badgevi na vrhu jasno prikazuju dostupnost, tip sadržaja i licencu.
