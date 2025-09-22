@@ -68,12 +68,15 @@
   [https://www.youtube.com/watch?v=1aktNYADxdc](https://www.youtube.com/watch?v=1aktNYADxdc)  
 
 ### 06. Pogreška klasifikatora  
-- Gist: [https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5](https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5)  
+- Matrica konfuzije za otkrivene
+  Gist: [https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5](https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5)  
 
 #### DODATNI MATERIJALI  
 - ROC and AUC, Clearly Explained!  
   [https://www.youtube.com/watch?v=4jRBRDbJemM](https://www.youtube.com/watch?v=4jRBRDbJemM)  
 
 ### 07. Procjena regresora  
-- Gist 1: [https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b](https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b)  
-- Gist 2: [https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33](https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33)  
+- Crtanje grešaka 
+  Gist 1: [https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b](https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b)
+  
+  Gist 2: [https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33](https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33)  
