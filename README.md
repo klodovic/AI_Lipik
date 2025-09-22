@@ -1,10 +1,12 @@
+
+<a title="United Blasters, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png"><img width="256" alt="AI logo by United Blasters" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AI_logo_by_United_Blasters.png/256px-AI_logo_by_United_Blasters.png?20250222172020"></a>
+
+
 # AI_Lipik
 
 *Stručnjak/inja za umjetnu inteligenciju*
 
 ---
-
-![Logo](<a title="United Blasters, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png"><img width="256" alt="AI logo by United Blasters" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AI_logo_by_United_Blasters.png/256px-AI_logo_by_United_Blasters.png?20250222172020"></a>)
 
 ## Sadržaj
 - [Modul 2 - projektni zadatak](#modul-2---projektni-zadatak)
