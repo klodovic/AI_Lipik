@@ -1,82 +1,123 @@
 
-<a title="United Blasters, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png"><img width="256" alt="AI logo by United Blasters" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AI_logo_by_United_Blasters.png/256px-AI_logo_by_United_Blasters.png?20250222172020"></a>
+    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Niki.ai-logo.svg" alt="AI logo">
+    <h1>AI_Lipik</h1>
+    <p><em>Stručnjak/inja za umjetnu inteligenciju</em></p>
 
+    <h2>Sadržaj</h2>
+    <ul>
+      <li><a href="#modul-2---projektni-zadatak">Modul 2 - projektni zadatak</a></li>
+      <li><a href="#modul-3---strojno-ucenje">Modul 3 - Strojno učenje</a>
+        <ul>
+          <li><a href="#01-uvodno-predavanje">01. Uvodno predavanje</a></li>
+          <li><a href="#02-ponavljanje-matematike">02. Ponavljanje matematike</a></li>
+          <li><a href="#03-klasifikacija-k-nn-nb">03. Klasifikacija (k-NN, NB)</a></li>
+          <li><a href="#04-regresija-k-nn-linearna">04. Regresija (k-NN, linearna)</a></li>
+          <li><a href="#05-evaluacija">05. Evaluacija</a></li>
+          <li><a href="#06-pogreska-klasifikatora">06. Pogreška klasifikatora</a></li>
+          <li><a href="#07-procjena-regresora">07. Procjena regresora</a></li>
+        </ul>
+      </li>
+    </ul>
 
-## Sadržaj
-- [Modul 2 - projektni zadatak](#modul-2---projektni-zadatak)  
-- [Modul 3 - Strojno učenje](#modul-3---strojno-ucenje)  
-  - [01. Uvodno predavanje](#01-uvodno-predavanje)  
-  - [02. Ponavljanje matematike](#02-ponavljanje-matematike)  
-  - [03. Klasifikacija (k-NN, NB)](#03-klasifikacija-k-nn-nb)  
-  - [04. Regresija (k-NN, linearna)](#04-regresija-k-nn-linearna)  
-  - [05. Evaluacija](#05-evaluacija)  
-  - [06. Pogreška klasifikatora](#06-pogreska-klasifikatora)  
-  - [07. Procjena regresora](#07-procjena-regresora)  
+    <h2 id="modul-2---projektni-zadatak">Modul 2 - projektni zadatak</h2>
+    <ul>
+      <li><strong>Učitati dataset i osnovna analiza</strong> <em>(2 boda)</em>
+        <ul>
+          <li>Prikazati osnovne informacije pomoću <code>head()</code>, <code>describe()</code> i <code>info()</code>.</li>
+          <li>Dodati komentare: npr. raspon starosti, sumnjive vrijednosti, očekivani/neočekivani podaci itd.</li>
+        </ul>
+      </li>
+      <li><strong>Upoznati se s kategoričkim varijablama</strong> <em>(2 boda)</em>
+        <ul>
+          <li>Ispitati koliko podataka ima unutar svake kategorije, npr. u koloni <code>Spol</code>.</li>
+        </ul>
+      </li>
+      <li><strong>Čišćenje podataka</strong>
+        <ul>
+          <li><strong>Srediti duplikate</strong> <em>(2 boda)</em></li>
+          <li><strong>Srediti missing values</strong> <em>(4 boda)</em></li>
+          <li><strong>Srediti outliere</strong> <em>(4 boda)</em></li>
+          <li><strong>Srediti krive upise</strong> <em>(4 boda)</em>
+            <ul>
+              <li>Provjeriti npr. na koliko načina je napisan spol ("Muško", "musko", "M", itd.).</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><strong>Otkriti veze među podacima</strong> <em>(6 bodova)</em>
+        <ul>
+          <li>Primijeniti korelaciju, grafičke prikaze, grupiranja i druge metode za otkrivanje odnosa među varijablama.</li>
+        </ul>
+      </li>
+      <li><strong>Odrediti koje varijable ostaju u datasetu, a koje se miču</strong> <em>(4 boda)</em>
+        <ul>
+          <li>Objasniti razloge uklanjanja varijabli: npr. niska varijanca, visoka korelacija s drugima, neinformativnost; temeljeno na statistikama i/ili domain knowledge.</li>
+        </ul>
+      </li>
+    </ul>
 
----
+    <h2 id="modul-3---strojno-ucenje">Modul 3 - Strojno učenje</h2>
 
-## Modul 2 - projektni zadatak  
+    <h3 id="01-uvodno-predavanje">01. Uvodno predavanje</h3>
+    <ul>
+      <li>Supervised vs Unsupervised Learning<br>
+        <a href="https://www.youtube.com/watch?v=SYPejHY9WV8">https://www.youtube.com/watch?v=SYPejHY9WV8</a>
+      </li>
+    </ul>
 
-- **Učitati dataset i osnovna analiza** *(2 boda)*  
-  - Prikazati osnovne informacije pomoću `head()`, `describe()` i `info()`.  
-  - Dodati komentare: npr. raspon starosti, sumnjive vrijednosti, očekivani/neočekivani podaci itd.  
+    <h3 id="02-ponavljanje-matematike">02. Ponavljanje matematike</h3>
+    <ul>
+      <li>What Is Scikit-Learn ?<br>
+        <a href="https://www.youtube.com/watch?v=7z8-QWlbmoo">https://www.youtube.com/watch?v=7z8-QWlbmoo</a>
+      </li>
+    </ul>
 
-- **Upoznati se s kategoričkim varijablama** *(2 boda)*  
-  - Ispitati koliko podataka ima unutar svake kategorije, npr. u koloni `Spol`.  
+    <h3 id="03-klasifikacija-k-nn-nb">03. Klasifikacija (k-NN, NB)</h3>
+    <ul>
+      <li>KNN Algorithm in Machine Learning<br>
+        <a href="https://www.youtube.com/watch?v=TN_iv1ToxmI">https://www.youtube.com/watch?v=TN_iv1ToxmI</a>
+      </li>
+      <li>Naive Bayes Algorithm in Machine Learning<br>
+        <a href="https://www.youtube.com/watch?v=EK9uEfR53n4">https://www.youtube.com/watch?v=EK9uEfR53n4</a>
+      </li>
+    </ul>
 
-- **Čišćenje podataka**  
-  - **Srediti duplikate** *(2 boda)*  
-  - **Srediti missing values** *(4 boda)*  
-  - **Srediti outliere** *(4 boda)*  
-  - **Srediti krive upise** *(4 boda)*  
-    - Provjeriti npr. na koliko načina je napisan spol ("Muško", "musko", "M", itd.).  
+    <h3 id="04-regresija-k-nn-linearna">04. Regresija (k-NN, linearna)</h3>
+    <ul>
+      <li>KNN machine learning model for regression<br>
+        <a href="https://www.youtube.com/watch?v=ywbVXMuhDhk">https://www.youtube.com/watch?v=ywbVXMuhDhk</a>
+      </li>
+      <li>Linear Regression Algorithm<br>
+        <a href="https://www.youtube.com/watch?v=1aktNYADxdc">https://www.youtube.com/watch?v=1aktNYADxdc</a>
+      </li>
+    </ul>
 
-- **Otkriti veze među podacima** *(6 bodova)*  
-  - Primijeniti korelaciju, grafičke prikaze, grupiranja i druge metode za otkrivanje odnosa među varijablama.  
+    <h3 id="05-evaluacija">05. Evaluacija</h3>
+    <ul>
+      <li>Bias variance trade off and overfitting<br>
+        <a href="https://www.youtube.com/watch?v=EEHhGRq-r1c">https://www.youtube.com/watch?v=EEHhGRq-r1c</a>
+      </li>
+      <li>Cross validation<br>
+        <a href="https://www.youtube.com/watch?v=1aktNYADxdc">https://www.youtube.com/watch?v=1aktNYADxdc</a>
+      </li>
+    </ul>
 
-- **Odrediti koje varijable ostaju u datasetu, a koje se miču** *(4 boda)*  
-  - Objasniti razloge uklanjanja varijabli: npr. niska varijanca, visoka korelacija s drugima, neinformativnost; temeljeno na statistikama i/ili domain knowledge.  
+    <h3 id="06-pogreska-klasifikatora">06. Pogreška klasifikatora</h3>
+    <ul>
+      <li>
+        Gist: <a href="https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5" target="_blank" rel="noopener">https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5</a>
+      </li>
+    </ul>
 
----
+    <h4>DODATNI MATERIJALI</h4>
+    <ul>
+      <li>ROC and AUC, Clearly Explained!<br>
+        <a href="https://www.youtube.com/watch?v=4jRBRDbJemM">https://www.youtube.com/watch?v=4jRBRDbJemM</a>
+      </li>
+    </ul>
 
-## Modul 3 - Strojno učenje  
-
-### 01. Uvodno predavanje  
-- Supervised vs Unsupervised Learning  
-  [https://www.youtube.com/watch?v=SYPejHY9WV8](https://www.youtube.com/watch?v=SYPejHY9WV8)  
-
-### 02. Ponavljanje matematike  
-- What Is Scikit-Learn ?  
-  [https://www.youtube.com/watch?v=7z8-QWlbmoo](https://www.youtube.com/watch?v=7z8-QWlbmoo)  
-
-### 03. Klasifikacija (k-NN, NB)  
-- KNN Algorithm in Machine Learning  
-  [https://www.youtube.com/watch?v=TN_iv1ToxmI](https://www.youtube.com/watch?v=TN_iv1ToxmI)  
-- Naive Bayes Algorithm in Machine Learning  
-  [https://www.youtube.com/watch?v=EK9uEfR53n4](https://www.youtube.com/watch?v=EK9uEfR53n4)  
-
-### 04. Regresija (k-NN, linearna)  
-- KNN machine learning model for regression  
-  [https://www.youtube.com/watch?v=ywbVXMuhDhk](https://www.youtube.com/watch?v=ywbVXMuhDhk)  
-- Linear Regression Algorithm  
-  [https://www.youtube.com/watch?v=1aktNYADxdc](https://www.youtube.com/watch?v=1aktNYADxdc)  
-
-### 05. Evaluacija  
-- Bias variance trade off and overfitting  
-  [https://www.youtube.com/watch?v=EEHhGRq-r1c](https://www.youtube.com/watch?v=EEHhGRq-r1c)  
-- Cross validation  
-  [https://www.youtube.com/watch?v=1aktNYADxdc](https://www.youtube.com/watch?v=1aktNYADxdc)  
-
-### 06. Pogreška klasifikatora  
-- Matrica konfuzije za otkrivene
-  Gist: [https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5](https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5)  
-
-#### DODATNI MATERIJALI  
-- ROC and AUC, Clearly Explained!  
-  [https://www.youtube.com/watch?v=4jRBRDbJemM](https://www.youtube.com/watch?v=4jRBRDbJemM)  
-
-### 07. Procjena regresora  
-- Crtanje grešaka 
-  Gist 1: [https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b](https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b)
-  
-  Gist 2: [https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33](https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33)  
+    <h3 id="07-procjena-regresora">07. Procjena regresora</h3>
+    <ul>
+      <li>Gist 1: <a href="https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b" target="_blank" rel="noopener">https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b</a></li>
+      <li>Gist 2: <a href="https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33" target="_blank" rel="noopener">https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33</a></li>
+    </ul>
