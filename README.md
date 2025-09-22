@@ -1,43 +1,57 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+<meta charset="UTF-8">
+<title>AI_Lipik</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+  }
+  .logo {
+    width: 150px;
+    display: block;
+    margin: 0 auto 20px auto;
+  }
+  h1, h2, h3, h4 {
+    color: #2c3e50;
+  }
+  ul {
+    margin-left: 20px;
+  }
+  ul ul {
+    margin-left: 20px;
+  }
+  a {
+    color: #2980b9;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  footer {
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
 <div class="container">
-  <style>
-    .container {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-    }
-    .logo {
-      width: 150px;
-      display: block;
-      margin: 0 auto 20px auto;
-    }
-    h1, h2, h3, h4 {
-      color: #2c3e50;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    ul ul {
-      margin-left: 20px;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    footer {
-      margin-top: 40px;
-      font-size: 0.9em;
-      color: #555;
-      text-align: center;
-    }
-  </style>
+  <a title="United Blasters, CC BY 4.0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png">
+    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AI_logo_by_United_Blasters.png/256px-AI_logo_by_United_Blasters.png?20250222172020" alt="AI logo by United Blasters">
+  </a>
 
-  <a title="United Blasters, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png"><img width="256" alt="AI logo by United Blasters" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AI_logo_by_United_Blasters.png/256px-AI_logo_by_United_Blasters.png?20250222172020"></a>
-  
   <h1>AI_Lipik</h1>
   <p><em>Stručnjak/inja za umjetnu inteligenciju</em></p>
 
@@ -144,12 +158,12 @@
   <ul>
     <li>Gist: <a href="https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5" target="_blank" rel="noopener">Matrica konfuzije za otkrivene pragove</a></li>
     <li>
-        <h4>DODATNI MATERIJALI</h4>
-          <ul>
-            <li>ROC and AUC, Clearly Explained!<br>
-              <a href="https://www.youtube.com/watch?v=4jRBRDbJemM">https://www.youtube.com/watch?v=4jRBRDbJemM</a>
-            </li>
-          </ul>
+      <h4>DODATNI MATERIJALI</h4>
+      <ul>
+        <li>ROC and AUC, Clearly Explained!<br>
+          <a href="https://www.youtube.com/watch?v=4jRBRDbJemM">https://www.youtube.com/watch?v=4jRBRDbJemM</a>
+        </li>
+      </ul>
     </li>
   </ul>
 
@@ -159,4 +173,10 @@
     <li>Gist: <a href="https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33" target="_blank" rel="noopener">Regression residuals</a></li>
   </ul>
 
+  <footer>
+    <div>Generirano za <code>README.html</code> — slobodno priložite u GitHub repozitorij.</div>
+  </footer>
+
 </div>
+</body>
+</html>
