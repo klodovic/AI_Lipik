@@ -76,4 +76,3 @@
 
 ---
 
-*Generirano za README — slobodno kopirajte u `README.md` u GitHub repozitorij.*
