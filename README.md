@@ -36,7 +36,8 @@
     }
   </style>
 
-  <img class="logo" src="[https://upload.wikimedia.org/wikipedia/commons/f/f0/Niki.ai-logo.svg](https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png)" alt="AI logo">
+  <a title="United Blasters, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png"><img width="256" alt="AI logo by United Blasters" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AI_logo_by_United_Blasters.png/256px-AI_logo_by_United_Blasters.png?20250222172020"></a>
+  
   <h1>AI_Lipik</h1>
   <p><em>Stručnjak/inja za umjetnu inteligenciju</em></p>
 
