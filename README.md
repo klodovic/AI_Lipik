@@ -4,7 +4,7 @@
 
 ---
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/6/62/Artificial_Intelligence_%26_Machine_Learning.jpg)
+![Logo]([https://upload.wikimedia.org/wikipedia/commons/6/62/Artificial_Intelligence_%26_Machine_Learning.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b9/AI_logo_by_United_Blasters.png))
 
 ## Sadržaj
 - [Modul 2 - projektni zadatak](#modul-2---projektni-zadatak)
