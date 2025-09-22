@@ -1,52 +1,3 @@
-<!DOCTYPE html>
-<html lang="hr">
-<head>
-<meta charset="UTF-8">
-<title>AI_Lipik</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    background-color: #f8f9fa;
-    margin: 0;
-    padding: 0;
-  }
-  .container {
-    max-width: 900px;
-    margin: auto;
-    padding: 20px;
-    background-color: #fff;
-  }
-  .logo {
-    width: 150px;
-    display: block;
-    margin: 0 auto 20px auto;
-  }
-  h1, h2, h3, h4 {
-    color: #2c3e50;
-  }
-  ul {
-    margin-left: 20px;
-  }
-  ul ul {
-    margin-left: 20px;
-  }
-  a {
-    color: #2980b9;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  footer {
-    margin-top: 40px;
-    font-size: 0.9em;
-    color: #555;
-    text-align: center;
-  }
-</style>
-</head>
-<body>
 <div class="container">
   <a title="United Blasters, CC BY 4.0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AI_logo_by_United_Blasters.png">
     <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AI_logo_by_United_Blasters.png/256px-AI_logo_by_United_Blasters.png?20250222172020" alt="AI logo by United Blasters">
@@ -172,10 +123,6 @@
     <li>Gist: <a href="https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b" target="_blank" rel="noopener">Crtanje grešaka</a></li>
     <li>Gist: <a href="https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33" target="_blank" rel="noopener">Regression residuals</a></li>
   </ul>
-
-  <footer>
-    <div>Generirano za <code>README.html</code> — slobodno priložite u GitHub repozitorij.</div>
-  </footer>
 
 </div>
 </body>
