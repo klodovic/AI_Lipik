@@ -102,7 +102,10 @@ ROC and AUC, Clearly Explained!
   [Gist link](https://gist.github.com/kdokic1971/31842570ab5af6a2995754217c595e3b)
 
 ### 08. Nove metode klasifikacije
-*(materijali nedostaju)*
+- Gist: Plot-boundary  
+  [Gist link](https://gist.github.com/kdokic1971/f74dcafdb4f49bdcdbe9992354856724)
+- Gist:  
+  [Gist link](https://gist.github.com/kdokic1971/5e1d371a55d36fd9d967003f5feb4981)
 
 ### 09. Nove metode regresije
 *(materijali nedostaju)*
