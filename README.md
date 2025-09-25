@@ -94,9 +94,18 @@ ROC and AUC, Clearly Explained!
   [Gist link](https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b)
 - Gist: Regression residuals  
   [Gist link](https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33)
+- Gist: Evaluacija regresora bolja (1. dio)  
+  [Gist link](https://gist.github.com/kdokic1971/b3fe1fefb9121973ae66bed7639d95bf)
+- Gist: Evaluacija regresora bolja (2. dio)  
+  [Gist link](https://gist.github.com/kdokic1971/77a49160506a31ea7a5f75d2bf4f1810)
+- Gist: Evaluacija regresora bolja (3. dio)  
+  [Gist link](https://gist.github.com/kdokic1971/31842570ab5af6a2995754217c595e3b)
 
 ### 08. Nove metode klasifikacije
-*(materijali nedostaju)*
+- Gist: Plot-boundary  
+  [Gist link](https://gist.github.com/kdokic1971/f74dcafdb4f49bdcdbe9992354856724)
+- Gist:  
+  [Gist link](https://gist.github.com/kdokic1971/5e1d371a55d36fd9d967003f5feb4981)
 
 ### 09. Nove metode regresije
 *(materijali nedostaju)*
