@@ -94,7 +94,7 @@ ROC and AUC, Clearly Explained!
   [Gist link](https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b)
 - Gist: Regression residuals  
   [Gist link](https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33)
-- Gist: Evaluacija regresora bolja (1. dio)
+- Gist: Evaluacija regresora bolja (1. dio)  
   [Gist link](https://gist.github.com/kdokic1971/b3fe1fefb9121973ae66bed7639d95bf)
 - Gist: Evaluacija regresora bolja (2. dio)  
   [Gist link](https://gist.github.com/kdokic1971/77a49160506a31ea7a5f75d2bf4f1810)
