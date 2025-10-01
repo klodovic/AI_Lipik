@@ -109,13 +109,13 @@ ROC and AUC, Clearly Explained!
 
 **Dodatni materijali**  
 - Decision Tree Machine Learning
-  [Video](https://www.youtube.com/watch?v=hChoEjNlYnc)
+  [Video]  (https://www.youtube.com/watch?v=hChoEjNlYnc)
 - SVM Algorithm in Machine Learning
-  [Video](https://www.youtube.com/watch?v=1YW76WISm04)
+  [Video]  (https://www.youtube.com/watch?v=1YW76WISm04)
 - Logistic Regression in Machine Learning
-  [Video](https://www.youtube.com/watch?v=qfHLY0bA-Gc)
+  [Video]  (https://www.youtube.com/watch?v=qfHLY0bA-Gc)
 - PINETOOLS - besplatni online alati za konverziju slika
-  [Link](https://pinetools.com/c-images/)
+  [Link]  (https://pinetools.com/c-images/)
 
 ### 09. Nove metode regresije
 *(materijali nedostaju)*
