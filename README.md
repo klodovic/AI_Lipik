@@ -36,19 +36,24 @@
 ---
 
 ## Modul 2 - projektni zadatak
-- Učitati dataset i osnovna analiza
-  - Prikazati osnovne informacije pomoću `head()`, `describe()` i `info()`.
+
+- Učitati dataset i osnovna analiza  
+  - Prikazati osnovne informacije pomoću `head()`, `describe()` i `info()`.  
   - Dodati komentare: raspon starosti, sumnjive vrijednosti, očekivani/neočekivani podaci.
-- Upoznati se s kategoričkim varijablama
+
+- Upoznati se s kategoričkim varijablama  
   - Ispitati koliko podataka ima unutar svake kategorije, npr. u koloni `Spol`.
-- Čišćenje podataka
-  - Srediti duplikate
-  - Srediti missing values
-  - Srediti outliere
+
+- Čišćenje podataka  
+  - Srediti duplikate  
+  - Srediti missing values  
+  - Srediti outliere  
   - Srediti krive upise (npr. na koliko načina je napisan spol: "Muško", "musko", "M", itd.)
-- Otkriti veze među podacima
+
+- Otkriti veze među podacima  
   - Primijeniti korelaciju, grafičke prikaze, grupiranja i druge metode
-- Odrediti koje varijable ostaju u datasetu, a koje se miču
+
+- Odrediti koje varijable ostaju u datasetu, a koje se miču  
   - Razlozi uklanjanja: niska varijanca, visoka korelacija s drugima, neinformativnost; temeljeno na statistikama i/ili domain knowledge.
 
 ---
@@ -56,102 +61,133 @@
 ## Modul 3 - Strojno učenje
 
 ### 01. Uvodno predavanje
-- Supervised vs Unsupervised Learning  
-  [Video](https://www.youtube.com/watch?v=SYPejHY9WV8)
+
+Supervised vs Unsupervised Learning  
+[Video](https://www.youtube.com/watch?v=SYPejHY9WV8)
+
+---
 
 ### 02. Ponavljanje matematike
-- What Is Scikit-Learn?  
-  [Video](https://www.youtube.com/watch?v=7z8-QWlbmoo)
+
+What Is Scikit-Learn?  
+[Video](https://www.youtube.com/watch?v=7z8-QWlbmoo)
+
+---
 
 ### 03. Klasifikacija (k-NN, NB)
-- KNN Algorithm in Machine Learning  
-  [Video](https://www.youtube.com/watch?v=TN_iv1ToxmI)
-- Naive Bayes Algorithm in Machine Learning  
-  [Video](https://www.youtube.com/watch?v=EK9uEfR53n4)
+
+KNN Algorithm in Machine Learning  
+[Video](https://www.youtube.com/watch?v=TN_iv1ToxmI)
+
+Naive Bayes Algorithm in Machine Learning  
+[Video](https://www.youtube.com/watch?v=EK9uEfR53n4)
+
+---
 
 ### 04. Regresija (k-NN, linearna)
-- KNN machine learning model for regression  
-  [Video](https://www.youtube.com/watch?v=ywbVXMuhDhk)
-- Linear Regression Algorithm  
-  [Video](https://www.youtube.com/watch?v=1aktNYADxdc)
+
+KNN machine learning model for regression  
+[Video](https://www.youtube.com/watch?v=ywbVXMuhDhk)
+
+Linear Regression Algorithm  
+[Video](https://www.youtube.com/watch?v=1aktNYADxdc)
+
+---
 
 ### 05. Evaluacija
-- Bias variance trade off and overfitting  
-  [Video](https://www.youtube.com/watch?v=EEHhGRq-r1c)
-- Cross validation  
-  [Video](https://www.youtube.com/watch?v=1aktNYADxdc)
+
+Bias variance trade off and overfitting  
+[Video](https://www.youtube.com/watch?v=EEHhGRq-r1c)
+
+Cross validation  
+[Video](https://www.youtube.com/watch?v=1aktNYADxdc)
+
+---
 
 ### 06. Pogreška klasifikatora
-- Gist: Matrica konfuzije za otkrivene pragove  
-  [Gist link](https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5)
 
-**Dodatni materijali**  
+Matrica konfuzije za otkrivene pragove  
+[Gist link](https://gist.github.com/kdokic1971/ffa9193934236af91cd79cabdc5f36f5)
+
+Dodatni materijali:  
 ROC and AUC, Clearly Explained!  
 [Video](https://www.youtube.com/watch?v=4jRBRDbJemM)
 
+---
+
 ### 07. Procjena regresora
-- Gist: Crtanje grešaka  
-  [Gist link](https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b)
-- Gist: Regression residuals  
-  [Gist link](https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33)
-- Gist: Evaluacija regresora bolja (1. dio)  
-  [Gist link](https://gist.github.com/kdokic1971/b3fe1fefb9121973ae66bed7639d95bf)
-- Gist: Evaluacija regresora bolja (2. dio)  
-  [Gist link](https://gist.github.com/kdokic1971/77a49160506a31ea7a5f75d2bf4f1810)
-- Gist: Evaluacija regresora bolja (3. dio)  
-  [Gist link](https://gist.github.com/kdokic1971/31842570ab5af6a2995754217c595e3b)
+
+Crtanje grešaka  
+[Gist link](https://gist.github.com/kdokic1971/e7d7dd04d3015de488c370e193db6c2b)
+
+Regression residuals  
+[Gist link](https://gist.github.com/kdokic1971/3a773ab78c140b35e060a95bae683c33)
+
+Evaluacija regresora bolja (1. dio)  
+[Gist link](https://gist.github.com/kdokic1971/b3fe1fefb9121973ae66bed7639d95bf)
+
+Evaluacija regresora bolja (2. dio)  
+[Gist link](https://gist.github.com/kdokic1971/77a49160506a31ea7a5f75d2bf4f1810)
+
+Evaluacija regresora bolja (3. dio)  
+[Gist link](https://gist.github.com/kdokic1971/31842570ab5af6a2995754217c595e3b)
+
+---
 
 ### 08. Nove metode klasifikacije
-- Gist: Plot-boundary  
-  [Gist link](https://gist.github.com/kdokic1971/f74dcafdb4f49bdcdbe9992354856724)
-- Gist:  
-  [Gist link](https://gist.github.com/kdokic1971/5e1d371a55d36fd9d967003f5feb4981)
 
-**Dodatni materijali**  
-- Decision Tree Machine Learning
-  [Video]  (https://www.youtube.com/watch?v=hChoEjNlYnc)
-- SVM Algorithm in Machine Learning
-  [Video]  (https://www.youtube.com/watch?v=1YW76WISm04)
-- Logistic Regression in Machine Learning
-  [Video]  (https://www.youtube.com/watch?v=qfHLY0bA-Gc)
-- PINETOOLS - besplatni online alati za konverziju slika
-  [Link]  (https://pinetools.com/c-images/)
+Plot-boundary  
+[Gist link](https://gist.github.com/kdokic1971/f74dcafdb4f49bdcdbe9992354856724)
+
+Dodatni Gist  
+[Gist link](https://gist.github.com/kdokic1971/5e1d371a55d36fd9d967003f5feb4981)
+
+Dodatni materijali:  
+Decision Tree Machine Learning  
+[Video](https://www.youtube.com/watch?v=hChoEjNlYnc)
+
+SVM Algorithm in Machine Learning  
+[Video](https://www.youtube.com/watch?v=1YW76WISm04)
+
+Logistic Regression in Machine Learning  
+[Video](https://www.youtube.com/watch?v=qfHLY0bA-Gc)
+
+PINETOOLS - besplatni online alati za konverziju slika  
+[Link](https://pinetools.com/c-images/)
+
+---
 
 ### 09. Nove metode regresije
+
 *(materijali nedostaju)*
 
 ### 10. Manipuliranje značajkama
+
 *(materijali nedostaju)*
 
 ### 11. Podešavanje hiperparametara i cjevovoda
+
 *(materijali nedostaju)*
 
 ### 12. Kombiniranje modela
+
 *(materijali nedostaju)*
 
 ### 13.
+
 *(materijali nedostaju)*
 
 ### 14. Upravljanje svojstvima u posebnim područjima
+
 *(materijali nedostaju)*
 
 ### 15. Ostale teme
+
 *(materijali nedostaju)*
 
 ### 16. Nenadzirano učenje (1. dio)
-*(materijali nedostaju)*
 
-### 17. Nenadzirano učenje (2. dio)
-*(materijali nedostaju)*
-
-### 18. Objašnjivo strojno učenje (1. dio)
-*(materijali nedostaju)*
-
-### 19. Objašnjivo strojno učenje (2. dio)
-*(materijali nedostaju)*
-
-### 20. Provjera znanja
-*(materijali nedostaju)*
+*(materijali n*
 
 ---
 
