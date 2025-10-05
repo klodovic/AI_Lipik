@@ -165,7 +165,7 @@ Ridge regression
 LASSO regression  
 [Video](https://www.youtube.com/watch?v=t_1ZSWGDkX4)
 
-Support Vector Machines Regression
+Support Vector Machines regression  
 [Video](https://www.youtube.com/watch?v=EESZtSOdhEQ)
 
 Decision Tree Regression and classification models  
