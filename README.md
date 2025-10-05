@@ -169,7 +169,7 @@ Support Vector Machines Regression
 [Video](https://www.youtube.com/watch?v=EESZtSOdhEQ)
 
 Decision Tree Regression and classification models  
-[Link](https://www.youtube.com/watch?v=1I5MBdkpWgo)
+[Video](https://www.youtube.com/watch?v=1I5MBdkpWgo)
 
 ### 10. Manipuliranje značajkama
 
