@@ -155,11 +155,21 @@ Logistic Regression in Machine Learning
 PINETOOLS - besplatni online alati za konverziju slika  
 [Link](https://pinetools.com/c-images/)
 
----
 
 ### 09. Nove metode regresije
 
-*(materijali nedostaju)*
+Dodatni materijali:  
+Ridge regression  
+[Video](https://www.youtube.com/watch?v=cR9vXkS4ulU)
+
+LASSO regression  
+[Video](https://www.youtube.com/watch?v=t_1ZSWGDkX4)
+
+Support Vector Machines Regression 
+[Video](https://www.youtube.com/watch?v=EESZtSOdhEQ)
+
+Decision Tree Regression and classification models  
+[Link](https://www.youtube.com/watch?v=1I5MBdkpWgo)
 
 ### 10. Manipuliranje značajkama
 
