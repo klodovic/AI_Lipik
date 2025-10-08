@@ -155,6 +155,7 @@ Logistic Regression in Machine Learning
 PINETOOLS - besplatni online alati za konverziju slika  
 [Link](https://pinetools.com/c-images/)
 
+---
 
 ### 09. Nove metode regresije
 
@@ -174,14 +175,18 @@ Support Vector Machines regression
 Decision Tree Regression and classification models  
 [Video](https://www.youtube.com/watch?v=1I5MBdkpWgo)
 
+---
+
 ### 10. Manipuliranje značajkama
 
 Dodatni materijali:  
-Feature scaling in machine learning 
-[Video](https://www.youtube.com/watch?v=yXAyrWyH5Hg)
+Feature scaling in machine learning
+[Video](ttps://www.youtube.com/watch?v=yXAyrWyH5Hg)
 
 Machine Learning Tutorial Python - 6: Dummy Variables & One Hot Encoding
 [Video](https://www.youtube.com/watch?v=9yl6-HEY7_s)
+
+---
 
 ### 11. Podešavanje hiperparametara i cjevovoda
 
