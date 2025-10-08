@@ -180,10 +180,10 @@ Decision Tree Regression and classification models
 ### 10. Manipuliranje značajkama
 
 Dodatni materijali:  
-Feature scaling in machine learning
+Feature scaling in machine learning  
 [Video](https://www.youtube.com/watch?v=yXAyrWyH5Hg)
 
-Machine Learning Tutorial Python - 6: Dummy Variables & One Hot Encoding
+Machine Learning Tutorial Python - 6: Dummy Variables & One Hot Encoding  
 [Video](https://www.youtube.com/watch?v=9yl6-HEY7_s)
 
 ---
