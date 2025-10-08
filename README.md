@@ -159,8 +159,11 @@ PINETOOLS - besplatni online alati za konverziju slika
 ### 09. Nove metode regresije
 
 Dodatni materijali:  
-Ridge regression  
+Regularization in machine learning | L1 and L2 Regularization | Lasso and Ridge Regression  
 [Video](https://www.youtube.com/watch?v=cR9vXkS4ulU)
+
+Ridge regression  
+[Video](https://www.youtube.com/watch?v=7XvBwQeT9OI)
 
 LASSO regression  
 [Video](https://www.youtube.com/watch?v=t_1ZSWGDkX4)
@@ -173,7 +176,12 @@ Decision Tree Regression and classification models
 
 ### 10. Manipuliranje značajkama
 
-*(materijali nedostaju)*
+Dodatni materijali:  
+Feature scaling in machine learning 
+[Video](https://www.youtube.com/watch?v=yXAyrWyH5Hg)
+
+Machine Learning Tutorial Python - 6: Dummy Variables & One Hot Encoding
+[Video](https://www.youtube.com/watch?v=9yl6-HEY7_s)
 
 ### 11. Podešavanje hiperparametara i cjevovoda
 
