@@ -240,6 +240,7 @@ Kako SVM koristi kernal trik za razdvajanje linearno nedjeljivih klasa ? (VIDEO)
 ### 14. Objašnjiva umjetna inteligencija
 
 Dodatni materijali:
+
 Introduction to Explainable AI
 [Video](https://www.youtube.com/watch?v=McviMUYiG9s)
 
