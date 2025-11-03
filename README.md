@@ -24,14 +24,11 @@
   - [10. Manipuliranje značajkama](#10-manipuliranje-znacajkama)
   - [11. Podešavanje hiperparametara i cjevovoda](#11-podesavanje-hiperparametara-i-cjevovoda)
   - [12. Kombiniranje modela](#12-kombiniranje-modela)
-  - [13. (prazno)](#13)
-  - [14. Upravljanje svojstvima u posebnim područjima](#14-upravljanje-svojstvima-u-posebnim-podrucjima)
-  - [15. Ostale teme](#15-ostale-teme)
-  - [16. Nenadzirano učenje (1. dio)](#16-nenadzirano-ucenje-1-dio)
-  - [17. Nenadzirano učenje (2. dio)](#17-nenadzirano-ucenje-2-dio)
-  - [18. Objašnjivo strojno učenje (1. dio)](#18-objasnjivo-strojno-ucenje-1-dio)
-  - [19. Objašnjivo strojno učenje (2. dio)](#19-objasnjivo-strojno-ucenje-2-dio)
-  - [20. Provjera znanja](#20-provjera-znanja)
+  - [13. (Modeli koji za nas upravljaju značajkama (SVM, PCA))](#13-Modeli-koji-za-nas-upravljaju-značajkama-SVM,PCA)
+  - [14. Objašnjiva umjetna inteligencija](#14-Objašnjiva-umjetna-inteligencija)
+  - [15. Nenadzirano učenje (k-means)](#15-Nenadzirano-učenje-(k-means))
+  - [16. Nenadzirano učenje](#16-Nenadzirano-učenje)
+  - [17. Provjera znanja](#20-provjera-znanja)
 
 ---
 
@@ -190,25 +187,72 @@ Machine Learning Tutorial Python - 6: Dummy Variables & One Hot Encoding
 
 ### 11. Podešavanje hiperparametara i cjevovoda
 
-*(materijali nedostaju)*
+Dodatni Gist  
+[Gist link](https://gist.github.com/kdokic1971/251fd53c322de4b4e05810e41d85a23a)
+
+Dodatni materijali:
+GridSearchCV | Grid Search - Hyper Parameter Tuning
+[Video](https://www.youtube.com/watch?v=csae_xWc1kw)
+
+Machine Learning Tutorial Python - 16: Hyper parameter Tuning (GridSearchCV)
+[Video](https://www.youtube.com/watch?v=HdlDYng8g9s)
+
+---
 
 ### 12. Kombiniranje modela
 
-*(materijali nedostaju)*
+Tree based ensemble methods in machine learning
+[Video](https://www.youtube.com/watch?v=Luaqst5JM7g)
 
-### 13.
+Random Forest pros and cons
+[Video](https://www.youtube.com/watch?v=YJcv5hWoGSI)
 
-*(materijali nedostaju)*
+Ensemble Learning in Machine Learning
+[Video](https://www.youtube.com/watch?v=F6rrzUnz9hw)
 
-### 14. Upravljanje svojstvima u posebnim područjima
+Random Forest Explained
+[Video](https://www.youtube.com/watch?v=vdfvQTi65og)
 
-*(materijali nedostaju)*
+AdaBoost Algorithm In Machine Learning - Theory
+[Video](https://www.youtube.com/watch?v=RzmJ1qaCZ4w)
 
-### 15. Ostale teme
+AdaBoost Algorithm Python Implementation
+[Video](https://www.youtube.com/watch?v=O7J9Dl1cWmM)
 
-*(materijali nedostaju)*
+Boosting algorithms in machine learning (AdaBoost, GBM, XGBoost)
+[Video](https://www.youtube.com/watch?v=D9A8zIiJSAo)
 
-### 16. Nenadzirano učenje (1. dio)
+---
+
+### 13. Modeli koji za nas upravljaju značajkama (SVM, PCA)
+
+GIST_LINK_13a
+[Gist](https://gist.github.com/kdokic1971/74ffcd0311f64358bb5b71b8722baa22)
+
+GIST_LINK_13b
+[Gist](https://gist.github.com/kdokic1971/8524daf58786d5587bb49ea9307cba51)
+
+Kako SVM koristi kernal trik za razdvajanje linearno nedjeljivih klasa ? (VIDEO)
+[Video](https://www.loom.com/share/f16f044984f749b191719e4830f0ceae)
+
+---
+
+### 14. Objašnjiva umjetna inteligencija
+
+Dodatni materijali:
+Introduction to Explainable AI
+[Video](https://www.youtube.com/watch?v=McviMUYiG9s)
+
+---
+
+### 15. Nenadzirano učenje (k-means)
+
+Povećavanje broja klastera i prikaz grafa lakta
+[Video](https://moodle.srce.hr/2025-2026/mod/page/view.php?id=5115810)
+
+[Gist](GIST 14 - metoda lakta)
+
+### 16. Nenadzirano učenje
 
 *(materijali nedostaju)*
 
