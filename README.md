@@ -190,73 +190,73 @@ Machine Learning Tutorial Python - 6: Dummy Variables & One Hot Encoding
 Dodatni Gist  
 [Gist link](https://gist.github.com/kdokic1971/251fd53c322de4b4e05810e41d85a23a)
 
-Dodatni materijali:
-GridSearchCV | Grid Search - Hyper Parameter Tuning
+Dodatni materijali:  
+
+GridSearchCV | Grid Search - Hyper Parameter Tuning  
 [Video](https://www.youtube.com/watch?v=csae_xWc1kw)
 
-Machine Learning Tutorial Python - 16: Hyper parameter Tuning (GridSearchCV)
+Machine Learning Tutorial Python - 16: Hyper parameter Tuning (GridSearchCV)  
 [Video](https://www.youtube.com/watch?v=HdlDYng8g9s)
 
 ---
 
 ### 12. Kombiniranje modela
 
-Tree based ensemble methods in machine learning
+Tree based ensemble methods in machine learning  
 [Video](https://www.youtube.com/watch?v=Luaqst5JM7g)
 
-Random Forest pros and cons
+Random Forest pros and cons  
 [Video](https://www.youtube.com/watch?v=YJcv5hWoGSI)
 
-Ensemble Learning in Machine Learning
+Ensemble Learning in Machine Learning  
 [Video](https://www.youtube.com/watch?v=F6rrzUnz9hw)
 
-Random Forest Explained
+Random Forest Explained  
 [Video](https://www.youtube.com/watch?v=vdfvQTi65og)
 
-AdaBoost Algorithm In Machine Learning - Theory
+AdaBoost Algorithm In Machine Learning - Theory  
 [Video](https://www.youtube.com/watch?v=RzmJ1qaCZ4w)
 
-AdaBoost Algorithm Python Implementation
+AdaBoost Algorithm Python Implementation  
 [Video](https://www.youtube.com/watch?v=O7J9Dl1cWmM)
 
-Boosting algorithms in machine learning (AdaBoost, GBM, XGBoost)
+Boosting algorithms in machine learning (AdaBoost, GBM, XGBoost)  
 [Video](https://www.youtube.com/watch?v=D9A8zIiJSAo)
 
 ---
 
 ### 13. Modeli koji za nas upravljaju značajkama (SVM, PCA)
 
-GIST_LINK_13a
+GIST_LINK_13a  
 [Gist](https://gist.github.com/kdokic1971/74ffcd0311f64358bb5b71b8722baa22)
 
-GIST_LINK_13b
+GIST_LINK_13b  
 [Gist](https://gist.github.com/kdokic1971/8524daf58786d5587bb49ea9307cba51)
 
-Kako SVM koristi kernal trik za razdvajanje linearno nedjeljivih klasa ? (VIDEO)
+Kako SVM koristi kernal trik za razdvajanje linearno nedjeljivih klasa?  
 [Video](https://www.loom.com/share/f16f044984f749b191719e4830f0ceae)
 
 ---
 
 ### 14. Objašnjiva umjetna inteligencija
 
-Dodatni materijali:
+Dodatni materijali:  
 
-Introduction to Explainable AI
+Introduction to Explainable AI  
 [Video](https://www.youtube.com/watch?v=McviMUYiG9s)
 
 ---
 
 ### 15. Nenadzirano učenje (k-means)
 
-Povećavanje broja klastera i prikaz grafa lakta
+Povećavanje broja klastera i prikaz grafa lakta  
 [Video](https://moodle.srce.hr/2025-2026/mod/page/view.php?id=5115810)
 
-GIST 14 - metoda lakta
+GIST 14 - metoda lakta  
 [Gist](https://gist.github.com/kdokic1971/df670dba1a5106248295eb881d09e48c)
+
+---
 
 ### 16. Nenadzirano učenje
 
 *(materijali nedostaju)*
-
----
-
