@@ -28,7 +28,6 @@
   - [14. Objašnjiva umjetna inteligencija](#14-Objašnjiva-umjetna-inteligencija)
   - [15. Nenadzirano učenje (k-means)](#15-Nenadzirano-učenje-(k-means))
   - [16. Nenadzirano učenje](#16-Nenadzirano-učenje)
-  - [17. Provjera znanja](#20-provjera-znanja)
 
 ---
 
@@ -259,4 +258,11 @@ GIST 14 - metoda lakta
 
 ### 16. Nenadzirano učenje
 
-*(materijali nedostaju)*
+Mastering Clustering in ML: K-Means, K-Modes, K-Prototypes & Hierarchical Methods  
+[Video](https://www.youtube.com/watch?v=CvskWkAkeLM)  
+
+Mastering Clustering techniques using Sklearn (Kmeans, Hierarchical) - 1. dio  
+[Video](https://www.youtube.com/watch?v=Q-FdHb-ZslQ)  
+
+Mastering Clustering with PyCaret - K-Modes & K-Prototypes Unveiled - 2. dio  
+[Video](https://www.youtube.com/watch?v=iMP8k1fpq1s)
