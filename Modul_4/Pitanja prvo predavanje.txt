@@ -1,0 +1,30 @@
+poveži rezoluciju slike i broj bita za zapis jednog pixela s kvalitetom slike.
+
+što je cilj kod pripreme slike za obradu tehnikama računalog vida
+
+nabroji sustave boja i objasni gdje se primjenjuju i zašto
+
+kako je na računalu zapisana u memoriju monokromatska slika, a kako u boji?
+
+objasni pojam poduzorkavanja boje u odnosu na svjetlinu, nacrtaj primjere za pojedine sheme poduzorkovanja i izračunaj uštedu
+
+
+
+
+Rečenica: slike koje sadrže veliku količinu detalja i rubova, sadrže jako puno čestih promjena u prostoru. Kažemo da one sadrže jako puno visokih prostornih frekvencija. 
+Za razliku od njih slike puno detalja i rubova sadrže puno manje promjena u prostoru i samim time ne sadrže puno prostornih frekvencija.
+
+
+
+Pitanja: 
+
+nabroji parametre kamera (4 najbitnija) i objasni na odabranom primjeru kako bi odabrao pojedini parametar za odabranu app.
+
+što u slici predstavlja visoke prostorne frekvencije i zašto ih se najčešće želimo riješiti iz slike?
+
+objasni postupak filtriranja slike 2D filtrom.
+
+objasni kako se riješiti detalja iz slike, a kako izoštriti sliku ako je mutna?
+
+nabroj 5 tipova niskopropusnih filtera i objasni kada bih koristio koji od njih i zašto.
+
