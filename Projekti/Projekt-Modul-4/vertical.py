@@ -50,7 +50,7 @@ while True:
     cv2.line(frame, (0, line_position_y), (width, line_position_y), (0, 0, 255), 2)   
 
     for contour in contours:
-        if cv2.contourArea(contour) < 500:
+        if cv2.contourArea(contour) < 600:
             continue
 
         assigned_id = None # ID object for current contour
