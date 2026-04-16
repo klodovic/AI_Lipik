@@ -4,6 +4,9 @@
 Ovaj projekt koristi napredne tehnike računalnog vida i umjetne inteligencije za praćenje transformacije grada Zagreba. Cilj je dokumentirati potiskivanje prirode pod naletom urbanizacije te predvidjeti buduće trendove širenja gradskog betona.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDxlzmlc52k?si=npNIJKSgWDh3bBpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# 🎥 Video Prezentacija projekta
+[![Zagreb 2050](https://img.youtube.com/vi/TVOJ_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=TVOJ_ID)
+*Kliknite na sliku iznad za pokretanje video prezentacije na YouTube-u.*
 
 ## Ključni Featurei (Značajke)
 
