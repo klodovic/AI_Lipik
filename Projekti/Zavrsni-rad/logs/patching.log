@@ -1,0 +1,46 @@
+2026-03-29 11:47:21,190 | INFO | Učitan AOI: aoi_zagreb.geojson
+2026-03-29 11:47:21,191 | INFO | Obrada: 2016 | T33TWL
+2026-03-29 11:47:26,374 | INFO | Završeno T33TWL | Generirano: 3005 patcheva
+2026-03-29 11:47:26,381 | INFO | Obrada: 2016 | T33TWM
+2026-03-29 11:47:26,565 | INFO | Završeno T33TWM | Generirano: 9 patcheva
+2026-03-29 11:47:26,567 | INFO | Obrada: 2017 | T33TWL
+2026-03-29 11:47:31,708 | INFO | Završeno T33TWL | Generirano: 3004 patcheva
+2026-03-29 11:47:31,714 | INFO | Obrada: 2017 | T33TWM
+2026-03-29 11:47:31,931 | INFO | Završeno T33TWM | Generirano: 9 patcheva
+2026-03-29 11:47:31,932 | INFO | Obrada: 2018 | T33TWL
+2026-03-29 11:47:37,223 | INFO | Završeno T33TWL | Generirano: 3005 patcheva
+2026-03-29 11:47:37,230 | INFO | Obrada: 2018 | T33TWM
+2026-03-29 11:47:37,549 | INFO | Završeno T33TWM | Generirano: 9 patcheva
+2026-03-29 11:47:37,550 | INFO | Obrada: 2019 | T33TWL
+2026-03-29 11:47:43,065 | INFO | Završeno T33TWL | Generirano: 3005 patcheva
+2026-03-29 11:47:43,074 | INFO | Obrada: 2019 | T33TWM
+2026-03-29 11:47:43,371 | INFO | Završeno T33TWM | Generirano: 9 patcheva
+2026-03-29 11:47:43,373 | INFO | Obrada: 2020 | T33TWL
+2026-03-29 11:47:48,746 | INFO | Završeno T33TWL | Generirano: 3004 patcheva
+2026-03-29 11:47:48,755 | INFO | Obrada: 2020 | T33TWM
+2026-03-29 11:47:49,064 | INFO | Završeno T33TWM | Generirano: 9 patcheva
+2026-03-29 11:47:49,066 | INFO | Obrada: 2021 | T33TWL
+2026-03-29 11:47:54,342 | INFO | Završeno T33TWL | Generirano: 3007 patcheva
+2026-03-29 11:47:54,352 | INFO | Obrada: 2021 | T33TWM
+2026-03-29 11:47:54,652 | INFO | Završeno T33TWM | Generirano: 9 patcheva
+2026-03-29 11:47:54,654 | INFO | Obrada: 2022 | T33TWL
+2026-03-29 11:48:00,078 | INFO | Završeno T33TWL | Generirano: 3005 patcheva
+2026-03-29 11:48:00,087 | INFO | Obrada: 2022 | T33TWM
+2026-03-29 11:48:00,377 | INFO | Završeno T33TWM | Generirano: 9 patcheva
+2026-03-29 11:48:00,378 | INFO | Obrada: 2023 | T33TWL
+2026-03-29 11:48:05,759 | INFO | Završeno T33TWL | Generirano: 3004 patcheva
+2026-03-29 11:48:05,769 | INFO | Obrada: 2023 | T33TWM
+2026-03-29 11:48:06,066 | INFO | Završeno T33TWM | Generirano: 9 patcheva
+2026-03-29 11:48:06,068 | INFO | Obrada: 2024 | T33TWL
+2026-03-29 11:48:09,418 | INFO | Završeno T33TWL | Generirano: 1652 patcheva
+2026-03-29 11:48:09,426 | INFO | Obrada: 2024 | T33TWM
+2026-03-29 11:48:09,734 | INFO | Završeno T33TWM | Generirano: 9 patcheva
+2026-03-29 11:48:09,736 | INFO | Obrada: 2025 | T33TWL
+2026-03-29 11:48:15,093 | INFO | Završeno T33TWL | Generirano: 3004 patcheva
+2026-03-29 11:48:15,099 | INFO | Obrada: 2025 | T33TWM
+2026-03-29 11:48:15,385 | INFO | Završeno T33TWM | Generirano: 9 patcheva
+2026-03-29 11:48:15,386 | INFO | Obrada: 2026 | T33TWL
+2026-03-29 11:48:20,593 | INFO | Završeno T33TWL | Generirano: 3006 patcheva
+2026-03-29 11:48:20,600 | INFO | Obrada: 2026 | T33TWM
+2026-03-29 11:48:20,880 | INFO | Završeno T33TWM | Generirano: 9 patcheva
+2026-03-29 11:48:20,881 | INFO | --- GOTOVO --- Ukupno patcheva na disku: 31800
