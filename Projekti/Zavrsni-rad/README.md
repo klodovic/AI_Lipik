@@ -3,6 +3,8 @@
 
 Ovaj projekt koristi napredne tehnike računalnog vida i umjetne inteligencije za praćenje transformacije grada Zagreba. Cilj je dokumentirati potiskivanje prirode pod naletom urbanizacije te predvidjeti buduće trendove širenja gradskog betona.
 
+https://youtu.be/uDxlzmlc52k
+
 ## Ključni Featurei (Značajke)
 
 ### 1. Integracija s Copernicus Programom
