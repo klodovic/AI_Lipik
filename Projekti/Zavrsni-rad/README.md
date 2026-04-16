@@ -9,6 +9,7 @@ Ovaj projekt koristi napredne tehnike računalnog vida i umjetne inteligencije z
     <path d="M20 12 L56 34 L20 56 Z" fill="#ff0000"/>
   </svg>
 </a>
+*Kliknite na sliku iznad za pokretanje video prezentacije na YouTube-u.*
 
 ## Ključni Featurei (Značajke)
 
@@ -39,6 +40,10 @@ Ovaj projekt koristi napredne tehnike računalnog vida i umjetne inteligencije z
 
 ## Rezultati
 Model identificira trendove urbanizacije s visokom preciznošću, naglašavajući kritične točke gubitka zelene infrastrukture u širem području grada Zagreba.
+
+<img width="1746" height="1039" alt="urban" src="https://github.com/user-attachments/assets/ed468e26-8138-40a4-8d9b-1bf340bb1347" />
+<img width="1744" height="1039" alt="ndvi" src="https://github.com/user-attachments/assets/432c161f-1f14-469b-867e-75e7998af3cc" />
+
 
 ---
 *travanj 2026.*
