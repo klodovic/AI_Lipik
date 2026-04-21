@@ -3,14 +3,6 @@
 
 Ovaj projekt koristi napredne tehnike računalnog vida i umjetne inteligencije za praćenje transformacije grada Zagreba. Cilj je dokumentirati potiskivanje prirode pod naletom urbanizacije te predvidjeti buduće trendove širenja gradskog betona.
 
-<a class="yt-privacy-embed" href="https://www.youtube.com/watch?v=uDxlzmlc52k" style="display:block;position:relative;width:100%;aspect-ratio:16/9;background:#000;" onclick="event.preventDefault();this.outerHTML='<iframe width=\'100%\' height=\'100%\' src=\'https://www.youtube-nocookie.com/embed/uDxlzmlc52k?autoplay=1\' title=\'YouTube video player\' frameborder=\'0\' allow=\'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\' referrerpolicy=\'strict-origin-when-cross-origin\' allowfullscreen style=\'aspect-ratio:16/9;\'></iframe>'">
-  <img src="https://i.ytimg.com/vi/uDxlzmlc52k/maxresdefault.jpg" alt="Video thumbnail" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;" onerror="this.src='https://i.ytimg.com/vi/uDxlzmlc52k/hqdefault.jpg'">
-  <svg style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:68px;height:68px;filter:drop-shadow(0 2px 4px rgba(0,0,0,0.5));" viewBox="0 0 68 68">
-    <path d="M20 12 L56 34 L20 56 Z" fill="#ff0000"/>
-  </svg>
-</a>
-*Kliknite na sliku iznad za pokretanje video prezentacije na YouTube-u.*
-
 [![Video Presentation](https://i.ytimg.com/vi/uDxlzmlc52k/maxresdefault.jpg)](https://www.youtube.com/watch?v=uDxlzmlc52k)
 *Kliknite na sliku iznad za pokretanje video prezentacije na YouTube-u (preporučeno: desni klik -> otvori u novoj kartici).*
 
