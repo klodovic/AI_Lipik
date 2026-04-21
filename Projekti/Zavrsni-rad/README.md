@@ -6,14 +6,14 @@ Ovaj projekt koristi napredne tehnike računalnog vida i umjetne inteligencije z
 [![Video Presentation](https://i.ytimg.com/vi/uDxlzmlc52k/maxresdefault.jpg)](https://www.youtube.com/watch?v=uDxlzmlc52k)
 *Kliknite na sliku iznad za pokretanje video prezentacije na YouTube-u (preporučeno: desni klik -> otvori u novoj kartici).*
 
-## Ključni Featurei (Značajke)
+## Ključne značajke
 
 ### 1. Integracija s Copernicus Programom
 * **Satelitski podaci:** Automatska obrada multispektralnih snimki s misije **Sentinel-2A**.
 * **Spektralna analiza:** Korištenje 13 spektralnih kanala (uključujući infracrveni spektar) za preciznu detekciju NDVI (vegetacijskog indeksa) i izgrađenih površina.
 * **Procesiranje:** Korištenje **L2A (Level-2A)** podataka koji su atmosferski korigirani (Bottom-Of-Atmosphere), što osigurava znanstvenu točnost izračuna indeksa.
 
-### 2. MasterUNet V3 Arhitektura
+### 2. MasterUNet Arhitektura
 * **Hibridni model:** Implementacija **ResNet-UNet** arhitekture koja kombinira duboko učenje značajki s preciznim prostornim mapiranjem.
 * **Skip Connections:** Korištenje preskočnih veza za očuvanje detalja niske razine tijekom procesa dekodiranja.
 * **Optimizacija:** Napredni trening kroz tisuće iteracija s Min-Max normalizacijom i dinamičkim batchingom.
@@ -39,7 +39,6 @@ Glavni izvor podataka je **Copernicus Data Space Ecosystem (CDSE)**. Sustav kori
 ### Tech Stack
 * **Jezik:** Python 3.x
 * **ML Framework:** PyTorch / TensorFlow (MasterUNet V3)
-* **GIS Alati:** GDAL, Rasterio, Fsspec, Affine
 * **Sučelje:** Streamlit (za interaktivni `app.py`)
 
 ## Rezultati
