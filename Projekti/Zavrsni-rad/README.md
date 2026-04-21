@@ -11,6 +11,9 @@ Ovaj projekt koristi napredne tehnike računalnog vida i umjetne inteligencije z
 </a>
 *Kliknite na sliku iznad za pokretanje video prezentacije na YouTube-u.*
 
+[![Video Presentation](https://i.ytimg.com/vi/uDxlzmlc52k/maxresdefault.jpg)](https://www.youtube.com/watch?v=uDxlzmlc52k)
+*Kliknite na sliku iznad za pokretanje video prezentacije na YouTube-u (preporučeno: desni klik -> otvori u novoj kartici).*
+
 ## Ključni Featurei (Značajke)
 
 ### 1. Integracija s Copernicus Programom
