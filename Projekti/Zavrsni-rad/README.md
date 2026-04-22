@@ -66,6 +66,7 @@ Model identificira trendove urbanizacije s visokom preciznošću, naglašavajuć
 
     # Pokrenite aplikaciju
     streamlit run app.py 
+```
 
 ### Tech Stack
 * **Jezik:** Python 3.x
