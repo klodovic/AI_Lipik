@@ -52,15 +52,18 @@ Model identificira trendove urbanizacije s visokom preciznošću, naglašavajuć
 <img width="1744" height="1039" alt="ndvi" src="https://github.com/user-attachments/assets/432c161f-1f14-469b-867e-75e7998af3cc" />
 
 ## 5. Kako pokrenuti projekt (Demo)
-* **Kloniranje repozitorija:**
+**Kloniranje repozitorija i pokretanje:**
    ```bash
+        # Kloniranje cijelog repozitorija
         git clone https://github.com/klodovic/AI_Lipik.git
+
+        # Ulazak u mapu
         cd AI_Lipik/Projekti/Zavrsni-rad
 
-        ## Instalacija biblioteka
+        # Instalacija biblioteka
         pip install -r requirements.txt
 
-        ## Pokrenite aplikaciju
+        # Pokrenite aplikaciju
         streamlit run app.py  
 
 ### Tech Stack
