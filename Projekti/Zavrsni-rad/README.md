@@ -48,7 +48,10 @@ Model je postigao visoku preciznost u prepoznavanju trendova širenja grada:
 * **Discretization:** Kategorizacija zemljišta u intuitivne klase radi lakšeg razumijevanja za krajnje korisnike (urbaniste).
 Model identificira trendove urbanizacije s visokom preciznošću, naglašavajući kritične točke gubitka zelene infrastrukture u širem području grada Zagreba.
 
+**Urbanizacija - Demo**
 <img width="1746" height="1039" alt="urban" src="https://github.com/user-attachments/assets/ed468e26-8138-40a4-8d9b-1bf340bb1347" />
+
+**Gubitak biomase - Demo**
 <img width="1744" height="1039" alt="ndvi" src="https://github.com/user-attachments/assets/432c161f-1f14-469b-867e-75e7998af3cc" />
 
 ## 5. Kako pokrenuti projekt (Demo)
