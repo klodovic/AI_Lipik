@@ -53,18 +53,19 @@ Model identificira trendove urbanizacije s visokom preciznošću, naglašavajuć
 
 ## 5. Kako pokrenuti projekt (Demo)
 **Kloniranje repozitorija i pokretanje:**
-   ```bash
-        # Kloniranje cijelog repozitorija
-        git clone https://github.com/klodovic/AI_Lipik.git
 
-        # Ulazak u mapu
-        cd AI_Lipik/Projekti/Zavrsni-rad
+```bash
+    # Kloniranje cijelog repozitorija
+    git clone https://github.com/klodovic/AI_Lipik.git
 
-        # Instalacija biblioteka
-        pip install -r requirements.txt
+    # Ulazak u mapu
+    cd AI_Lipik/Projekti/Zavrsni-rad
 
-        # Pokrenite aplikaciju
-        streamlit run app.py  
+    # Instalacija biblioteka
+    pip install -r requirements.txt
+
+    # Pokrenite aplikaciju
+    streamlit run app.py 
 
 ### Tech Stack
 * **Jezik:** Python 3.x
