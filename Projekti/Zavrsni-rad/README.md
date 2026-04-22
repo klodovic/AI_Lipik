@@ -6,46 +6,61 @@ Ovaj projekt koristi napredne tehnike računalnog vida i umjetne inteligencije z
 [![Video Presentation](https://i.ytimg.com/vi/uDxlzmlc52k/maxresdefault.jpg)](https://www.youtube.com/watch?v=uDxlzmlc52k)
 *Kliknite na sliku iznad za pokretanje video prezentacije na YouTube-u (preporučeno: desni klik -> otvori u novoj kartici).*
 
-## Ključne značajke
 
-### 1. Integracija s Copernicus Programom
-* **Satelitski podaci:** Automatska obrada multispektralnih snimki s misije **Sentinel-2A**.
-* **Spektralna analiza:** Korištenje 13 spektralnih kanala (uključujući infracrveni spektar) za preciznu detekciju NDVI (vegetacijskog indeksa) i izgrađenih površina.
-* **Procesiranje:** Korištenje **L2A (Level-2A)** podataka koji su atmosferski korigirani (Bottom-Of-Atmosphere), što osigurava znanstvenu točnost izračuna indeksa.
+## 1. Opis problema i cilj projekta
+Glavni izazov ovog projekta je precizno predviđanje i vizualizacija urbanog širenja grada Zagreba. Naglasak je na detekciji gubitka zelenih površina (vegetacije) i pretvaranju istih u izgrađena područja (betonizacija).
 
-### 2. MasterUNet Arhitektura
-* **Hibridni model:** Implementacija **ResNet-UNet** arhitekture koja kombinira duboko učenje značajki s preciznim prostornim mapiranjem.
-* **Skip Connections:** Korištenje preskočnih veza za očuvanje detalja niske razine tijekom procesa dekodiranja.
-* **Optimizacija:** Napredni trening kroz tisuće iteracija s Min-Max normalizacijom i dinamičkim batchingom.
+**Cilj:** Razviti sustav koji koristi povijesne satelitske podatke (2016-2024) kako bi generirao vizualne projekcije urbanizacije za 2027. i 2050. godinu. Projekt služi kao alat za pomoć pri urbanističkom planiranju i zaštiti okoliša.
 
-### 3. Napredna Vizualizacija (app.py)
-* **Delta Display Mode:** Inovativni prikaz koji izolira isključivo "novu urbanizaciju" (promjenu između dva vremenska razdoblja).
-* **Binary Construction View:** Poseban način rada koji filtrira sve osim novih gradilišta i urbanih zona.
-* **Discretization:** Kategorizacija zemljišta u intuitivne klase radi lakšeg razumijevanja za krajnje korisnike (urbaniste).
+## 2. Podaci (Dataset)
+* **Tip podataka:** Multispektralne snimke (L2A - Bottom-Of-Atmosphere).
+* **Karakteristike:** 13 spektralnih kanala (primarno NIR i Red za izračun NDVI indeksa).
 
-### 4. Analitički Engine
-* **Temporalna usporedba:** Vizualizacija urbanog širenja od 2016. do predviđenih projekcija za 2027. i 2050. godinu.
-* **Kvantifikacija gubitka biomase:** Izračun smanjenja zelenih površina u odnosu na rast građevinskih zona.
-
-## Tehnologije i Izvori Podataka
-
-### Dataset i API
-Glavni izvor podataka je **Copernicus Data Space Ecosystem (CDSE)**. Sustav koristi automatizirane skripte za dohvaćanje podataka putem:
+* **Izvor:** [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/) (Misija Sentinel-2A).
 * **Službeni portal:** [dataspace.copernicus.eu](https://dataspace.copernicus.eu/)
 * **Metadata Search:** STAC API (`stac.dataspace.copernicus.eu`)
 * **Product Catalog:** OData API (`catalogue.dataspace.copernicus.eu`)
 * **Data Stream:** S3 Cloud Storage (`eodata.dataspace.copernicus.eu`)
 
-### Tech Stack
-* **Jezik:** Python 3.x
-* **ML Framework:** PyTorch / TensorFlow (MasterUNet V3)
-* **Sučelje:** Streamlit (za interaktivni `app.py`)
+* **Dataset Link:** [https://fotoklubzagreb-my.sharepoint.com/:f:/g/personal/josip_smoljic_fotoklubzagreb_hr/IgCR06dwIwWTR51OT7DRX4J3Aa1shBB-VFuw2BPHAWfuA_E?e=seMpCK] - *Sadrži pripremljene pločice (tiling) i normalizirane maske. (3GB)*
 
-## Rezultati
+* **Opis izgradnje:** Podaci su procesirani i očišćeni od naoblake (cloud masking) te izrezani na dimenzije pogodne za trening UNet modela.
+
+## 3. Arhitektura Modela i Pristup
+Model se temelji na **MasterUNet** arhitekturi (ResNet-UNet hibrid):
+* **Encoder:** Koristi ResNet bazu za ekstrakciju dubokih značajki urbanih tekstura.
+* **Decoder:** Putem *Skip Connections* mehanizma precizno mapira granice novih građevinskih zona.
+* **Logika:** Model ne predviđa samo sliku, već spektralne vrijednosti (NDVI) koje se kasnije diskretiziraju u kategorije zemljišta.
+
+## 4. Rezultati i Evaluacija
+Model je postigao visoku preciznost u prepoznavanju trendova širenja grada:
+* **Accuracy:** 82% (na razini piksela)
+* **Interpretacija:** Evaluacija pokazuje da sustav najtočnije predviđa širenje uz postojeće infrastrukturne čvorove (npr. rubni dijelovi Novog Zagreba i zapadni ulaz u grad).
+
+
+## 5. Analitički Engine
+* **Temporalna usporedba:** Vizualizacija urbanog širenja od 2016. do predviđenih projekcija za 2027. i 2050. godinu.
+* **Kvantifikacija gubitka biomase:** Izračun smanjenja zelenih površina u odnosu na rast građevinskih zona.
+
+### 6. Napredna Vizualizacija (app.py)
+* **Delta Display Mode:** Inovativni prikaz koji izolira isključivo "novu urbanizaciju" (promjenu između dva vremenska razdoblja).
+* **Binary Construction View:** Poseban način rada koji filtrira sve osim novih gradilišta i urbanih zona.
+* **Discretization:** Kategorizacija zemljišta u intuitivne klase radi lakšeg razumijevanja za krajnje korisnike (urbaniste).
 Model identificira trendove urbanizacije s visokom preciznošću, naglašavajući kritične točke gubitka zelene infrastrukture u širem području grada Zagreba.
 
 <img width="1746" height="1039" alt="urban" src="https://github.com/user-attachments/assets/ed468e26-8138-40a4-8d9b-1bf340bb1347" />
 <img width="1744" height="1039" alt="ndvi" src="https://github.com/user-attachments/assets/432c161f-1f14-469b-867e-75e7998af3cc" />
+
+## 5. Kako pokrenuti projekt (Demo)
+* **Kloniranje repozitorija:**
+   ```bash
+        git clone https://github.com/klodovic/AI_Lipik.git
+        cd AI_Lipik/Projekti/Zavrsni-rad
+
+### Tech Stack
+* **Jezik:** Python 3.x
+* **ML Framework:** PyTorch / TensorFlow (MasterUNet V3)
+* **Sučelje:** Streamlit (za interaktivni `app.py`)
 
 ---
 *travanj 2026.*
