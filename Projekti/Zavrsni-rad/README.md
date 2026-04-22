@@ -57,6 +57,13 @@ Model identificira trendove urbanizacije s visokom preciznošću, naglašavajuć
         git clone https://github.com/klodovic/AI_Lipik.git
         cd AI_Lipik/Projekti/Zavrsni-rad
 
+   ```bash
+        pip install -r requirements.txt
+
+
+   ```bash
+        streamlit run app.py  
+
 ### Tech Stack
 * **Jezik:** Python 3.x
 * **ML Framework:** PyTorch / TensorFlow (MasterUNet V3)
