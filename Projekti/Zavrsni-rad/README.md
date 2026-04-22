@@ -57,11 +57,10 @@ Model identificira trendove urbanizacije s visokom preciznošću, naglašavajuć
         git clone https://github.com/klodovic/AI_Lipik.git
         cd AI_Lipik/Projekti/Zavrsni-rad
 
-   ```bash
+        ## Instalacija biblioteka
         pip install -r requirements.txt
 
-
-   ```bash
+        ## Pokrenite aplikaciju
         streamlit run app.py  
 
 ### Tech Stack
