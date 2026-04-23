@@ -22,7 +22,8 @@ Glavni izazov ovog projekta je precizno predviđanje i vizualizacija urbanog ši
 * **Product Catalog:** OData API (`catalogue.dataspace.copernicus.eu`)
 * **Data Stream:** S3 Cloud Storage (`eodata.dataspace.copernicus.eu`)
 
-* **Dataset Link:** [https://fotoklubzagreb-my.sharepoint.com/:f:/g/personal/josip_smoljic_fotoklubzagreb_hr/IgCR06dwIwWTR51OT7DRX4J3Aa1shBB-VFuw2BPHAWfuA_E?e=seMpCK] - *Sadrži pripremljene pločice (tiling) i normalizirane maske. (3GB)*
+* **Dataset Link:** [Dataset](https://mega.nz/folder/0V4SGRxZ#YniDYmVCI87or4cxZNryEw) 
+* - Sadrži pripremljene pločice (tiling) i normalizirane maske. (3GB)*
 
 * **Opis izgradnje:** Podaci su procesirani i očišćeni od naoblake (cloud masking) te izrezani na dimenzije pogodne za trening UNet modela.
 
@@ -75,6 +76,7 @@ Model identificira trendove urbanizacije s visokom preciznošću, naglašavajuć
 * **Jezik:** Python 3.x
 * **ML Framework:** PyTorch / TensorFlow (MasterUNet V3)
 * **Sučelje:** Streamlit (za interaktivni `app.py`)
+[Prezentacija](https://mega.nz/folder/RdhgXD4R#9X-7VW8wBHrHKZqVcF90FQ) 
 
 ---
 *travanj 2026.*
